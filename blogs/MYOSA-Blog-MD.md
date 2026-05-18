@@ -1,11 +1,11 @@
 ---  
 **publishDate:** 2026-05-18  
   
-**title:** MAKE-BoTs (Modular Adaptive Knowledge Exchange with Bluetooth of Things) 
+title: MAKE-BoTs (Modular Adaptive Knowledge Exchange with Bluetooth of Things) 
   
 **excerpt:** A modular smart sensor ecosystem built using the MYOSA platform, featuring real-time environmental monitoring. A complementary app facilitates user-friendly local dashboard streaming, and intelligent sensor analysis for smart home applications.
   
-image: makebots/cover_page.jpg
+image: makebots/cover_image.png
   
 **tags:**  
   - Internet of Things
