@@ -45,6 +45,7 @@ const blogs = [
    "blogs/drug-cold-chain-sentinel.md",
   "blogs/MYOSA-Blog-MD.md",
   "blogs/wearable-asthma-monitor-for-children.md",
+  "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
    "blogs/sitx.md"
 ];
 
