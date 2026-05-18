@@ -1,8 +1,9 @@
 ---
+publishDate: 2025-12-30
 title: Wearable Asthma Monitoring Device for Children
 date: 2026-05-17
 authors: Ingrid Morales, Esteban Pena, David Vazques
-cover: wearable-asthma-monitor-for-children/cover.png
+image: wearable-asthma-monitor-for-children/cover.png
 tags: [wearable, asthma, healthcare, IoT, BLE, Android]
 ---
 
