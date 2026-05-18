@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-12-30
+publishDate: 2026-05-17
 title: Wearable Asthma Monitoring Device for Children
 date: 2026-05-17
 authors: Ingrid Morales, Esteban Pena, David Vazques
