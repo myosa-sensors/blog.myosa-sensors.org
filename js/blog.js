@@ -44,7 +44,7 @@ const blogs = [
    "blogs/myosa-autonomous-rail-patrol-robot.md",
    "blogs/drug-cold-chain-sentinel.md",
   "blogs/MYOSA-Blog-MD.md",
-  "blogs/wearable-asthma-monitor-for-children.md.md",
+  "blogs/wearable-asthma-monitor-for-children.md",
    "blogs/sitx.md"
 ];
 
