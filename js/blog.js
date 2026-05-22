@@ -47,6 +47,7 @@ const blogs = [
   "blogs/wearable-asthma-monitor-for-children.md",
   "blogs/AuraNode.md",
    "blogs/myosa-steadygrip.md",
+  "blogs/VIGILLIFT.md",
   "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
   "blogs/myosa-digital-twin.md",
    "blogs/sitx.md"
