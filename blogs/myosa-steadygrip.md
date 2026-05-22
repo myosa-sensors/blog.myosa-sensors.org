@@ -2,7 +2,7 @@
 publishDate: 2026-05-21
 title: SteadyGrip – Intelligent Tremor-Cancelling Utensil System
 excerpt: SteadyGrip is an ESP32-based smart stabilization system designed to help individuals with Parkinson’s disease reduce hand tremors during daily activities such as eating and writing through intelligent motion stabilization and assistive technology.
-image: myosa-steady-grip/cover.jpg
+image: myosa-steady-grip/cover.png
 tags:
   - Healthcare Technology
   - Parkinson’s Disease
