@@ -1,4 +1,5 @@
-publishDate: 2026-05-17T00:00:00Z
+---
+publishDate: 2026-05-17
 title: Cyber-Physical Edge AI Digital Twin for Real-Time Structural Anomaly Detection
 excerpt: A low-latency self-calibrating structural health monitoring framework built on the MYOSA platform utilizing Edge computing and automated signal noise filtering.
 image: myosa-digital-twin/cover-dashboard.jpg
