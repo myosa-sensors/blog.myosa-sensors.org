@@ -7,6 +7,7 @@ tags:
   - Edge-AI
   - Digital-Twin
   - Cyber-Physical-Systems
+---
 > Shifting industrial structural asset management from human-dependent reactive checks into autonomous, edge-driven predictive protection.
 
 ## Acknowledgements
