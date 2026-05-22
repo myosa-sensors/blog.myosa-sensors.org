@@ -41,6 +41,7 @@ const blogs = [
   "blogs/safesite-worker-safety-monitor.md",
   "blogs/fault-detection(18th).md",
    "blogs/resqpulse.md",
+  "blogs/myosa-digital-twin.md",
    "blogs/myosa-autonomous-rail-patrol-robot.md",
    "blogs/drug-cold-chain-sentinel.md",
   "blogs/MYOSA-Blog-MD.md",
@@ -49,7 +50,6 @@ const blogs = [
    "blogs/myosa-steadygrip.md",
   "blogs/VIGILLIFT.md",
   "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
-  "blogs/myosa-digital-twin.md",
    "blogs/sitx.md"
 ];
 
