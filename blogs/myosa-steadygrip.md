@@ -40,7 +40,7 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
 
 
 
-h<div class="youtube-embed">
+<div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/g-2HG0lfdFQ"></iframe>
 </div>
 
