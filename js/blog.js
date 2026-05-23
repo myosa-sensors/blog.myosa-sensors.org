@@ -35,6 +35,7 @@ const blogs = [
   "blogs/smart-butterfly.md",
   "blogs/TejasARK.md",
   "blogs/myosa-secure-ride-system.md",
+  "blogs/lifelink-neonatal-blackbox.md",
   "blogs/sherpa.md",
   "blogs/smart-vest-myosa.md",
   "blogs/lumina.md",
