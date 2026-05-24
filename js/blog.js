@@ -50,6 +50,11 @@ const blogs = [
   "blogs/AuraNode.md",
    "blogs/myosa-steadygrip.md",
   "blogs/VIGILLIFT.md",
+  "blogs/agrolumen-spodoptera.md",
+  "blogs/myosa-ecoflame.md",
+  "blogs/myosa-hoic-system.md",
+  "blogs/neosentry.md",
+  "blogs/structsense.md",
   "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
    "blogs/sitx.md"
 ];
