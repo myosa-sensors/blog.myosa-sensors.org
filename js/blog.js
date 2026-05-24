@@ -55,6 +55,7 @@ const blogs = [
   "blogs/myosa-hoic-system.md",
   "blogs/neosentry.md",
   "blogs/structsense.md",
+  "blogs/smartsecnc.md",
   "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
    "blogs/sitx.md"
 ];
