@@ -1,6 +1,5 @@
-
 ---
-publishDate: 2025-05-23T00:00:00Z
+publishDate: 2026-05-23
 title: EcoFlame – Smart LPG Optimization and Safety System
 excerpt: A non-invasive IoT module built on the Myosa 5.0 platform that monitors flame health, knob position, and vessel presence on any gas stove to prevent LPG wastage and ensure kitchen safety.
 image: ecoflame/ecoflame-cover.jpg
