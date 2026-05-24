@@ -1,3 +1,4 @@
+---
 publishDate: 2026-05-24T00:00:00Z
 title: HOIC - Hybrid Occulo Inertial Communicator
 excerpt: A comprehensive assistive wearable device engineered for immobilized users, utilizing zero-latency inertial head-tracking for UI navigation and infrared double-blink detection for completely hands-free communication.
