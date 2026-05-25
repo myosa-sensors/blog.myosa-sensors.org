@@ -15,6 +15,10 @@ let isSearching = false;
 const blogs = [
   "blogs/myosa-submission-guidelines.md",
   "blogs/myosa-forest-sentinel.md",
+  "blogs/pulseenv.md",
+  "blogs/vitalrest-prototype-1.md",
+  "blogs/terrasafe.md",
+  "blogs/swarmsense.md",
   "blogs/ergonomic-biomechanics-and-active-feedback-system(2nd).md",
   "blogs/smart-lumbar-trainer.md",
   "blogs/myosa-interactive-learning-robot-myopet.md",
