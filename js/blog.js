@@ -15,6 +15,10 @@ let isSearching = false;
 const blogs = [
   "blogs/myosa-submission-guidelines.md",
   "blogs/myosa-forest-sentinel.md",
+  "blogs/athletIQ.md",
+  "blogs/tu-ankaja.md",
+  "blogs/bio-inspired-spiral-soft-robotic-gripper.md",
+  "blogs/sanjeevani-ai.md",
   "blogs/pulseenv.md",
   "blogs/vitalrest-prototype-1.md",
   "blogs/terrasafe.md",
