@@ -17,6 +17,8 @@ const blogs = [
   "blogs/myosa-forest-sentinel.md",
   "blogs/athletIQ.md",
   "blogs/tu-ankaja.md",
+   "blogs/ayra.md",
+   "blogs/myosa-digital-triplet.md‎",
   "blogs/bio-inspired-spiral-soft-robotic-gripper.md",
   "blogs/sanjeevani-ai.md",
   "blogs/pulseenv.md",
