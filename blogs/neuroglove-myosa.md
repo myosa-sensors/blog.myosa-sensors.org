@@ -1,3 +1,4 @@
+---
 publishDate: 2026-05-24T00:00:00Z
 
 title: Adaptive Motor Synchronization & Coaching System (NeuroGlove)
@@ -12,6 +13,7 @@ tags:
   - embedded-systems
   - rehabilitation
   - wearable-tech
+---
 
 > An AI-assisted wearable rehabilitation framework for adaptive motor monitoring and assistive feedback.
 
@@ -51,6 +53,23 @@ The wearable integrates:
 - SD-card behavioral logging
 - Bluetooth-based mobile interface
 - and deep-learning-based behavioral inference.
+
+## Images 
+<p align="center">
+  <img src="/assets/images/neuroglove/NeuroGlove1.jpeg" width="800"><br/>
+</p>
+<p align="center">
+  <img src="/assets/images/neuroglove/NeuroGlove2.jpeg" width="800"><br/>
+</p>
+<p align="center">
+  <img src="/assets/images/neuroglove/NeuroGlove3.jpeg" width="800"><br/>
+</p>
+
+## Video
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/MQMiZinzdEU"></iframe>
+</div>
+
 
 ## Features
 
