@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-05-24T00:00:00Z
+publishDate: 2026-05-24T00:00:00Z
 title: Bio-Inspired Spiral Soft Robotic Gripper
 excerpt: A Fibonacci-spiral soft gripper powered by the MYOSA ESP32 kit that uses proximity and tilt sensing to gently curl around delicate objects — designed for borewell rescue and fragile-object handling.
 image: bio-inspired-spiral-soft-robotic-gripper/myosa_demo_image.jpg
