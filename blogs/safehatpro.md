@@ -35,10 +35,9 @@ SAFEHAT PRO is an ESP32-based smart safety helmet system (MYOSA Mini Kit) design
 
 **What problem it solves:** Delayed emergency response in workplace accidents. The system automatically detects falls, monitors for confined-space entry, and enables manual SOS signaling — reducing response time and potentially saving lives.
 
-<video controls width="100%">
-  <source src="SAFEHAT-PRO/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/XVBhEs1zgjQ"></iframe>
+</div>
 
 ---
 
@@ -47,27 +46,27 @@ SAFEHAT PRO is an ESP32-based smart safety helmet system (MYOSA Mini Kit) design
 ### Images
 
 <p align="center">
-  <img src="SAFEHAT-PRO/circuit.jpg" width="800"><br/>
+  <img src="/assets/images/SAFEHAT-PRO/circuit.jpg" width="800"><br/>
   <i>Full circuit schematic of the ESP32 (MYOSA Mini Kit) including power regulation, I²C bus pull-up resistors, and sensor interconnects.</i>
 </p>
 
 <p align="center">
-  <img src="SAFEHAT-PRO/fall-detection.jpg" width="800"><br/>
+  <img src="/assets/images/SAFEHAT-PRO/fall-detection.jpg" width="800"><br/>
   <i>OLED display showing fall detection alert during freefall and impact events.</i>
 </p>
 
 <p align="center">
-  <img src="SAFEHAT-PRO/morse-sos.jpg" width="800"><br/>
+  <img src="/assets/images/SAFEHAT-PRO/morse-sos.jpg" width="800"><br/>
   <i>Morse tap SOS detection — three taps within 2 seconds trigger an emergency alert.</i>
 </p>
 
 <p align="center">
-  <img src="SAFEHAT-PRO/hat-on-user.jpg" width="800"><br/>
+  <img src="/assets/images/SAFEHAT-PRO/hat-on-user.jpg" width="800"><br/>
   <i>SAFEHAT PRO system worn by a user on a hard hat shell.</i>
 </p>
 
 <p align="center">
-  <img src="SAFEHAT-PRO/hat-prototype.jpg" width="800"><br/>
+  <img src="/assets/images/SAFEHAT-PRO/hat-prototype.jpg" width="800"><br/>
   <i>Close-up angled view of the assembled SAFEHAT PRO prototype.</i>
 </p>
 
