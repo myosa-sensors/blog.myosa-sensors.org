@@ -1,5 +1,5 @@
 ---
-publishDate: 2026-05-24T00:00:00Z
+publishDate: 2026-05-24
 title: SafeStride
 excerpt: A wearable ESP32 belt and Android app that checks walking pattern and sends a fall alert.
 image: SafeStride/safestride-cover.jpg
@@ -120,11 +120,10 @@ MYOSA is about making working sensor-based prototypes and showing them live. Saf
 
 ### Videos
 
-<video controls width="100%">
-  <source src="safestride-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/EJhXexc7Oi4"></iframe>
+</div>
 
-**Demo video file:** [safestride-demo.mp4](safestride-demo.mp4)
 
 In the demo, there may be a short moment where the app still shows healthy during a stroke-like part. This can happen around a U-turn because the person was turning while still walking normally. The model is also looking at the last 10 seconds of movement, not only the current step. This is expected for a stable gait window and does not mean the model is broken.
 
