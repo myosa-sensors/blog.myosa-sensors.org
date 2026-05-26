@@ -1,8 +1,8 @@
 ---
-publishDate: 2026-05-24T00:00:00Z
+publishDate: 2026-05-24
 title: Precision in Practice: MYOSA Laparoscopic Trainer
 excerpt: A MYOSA-powered laparoscopic skills trainer that turns a physical practice course into real-time feedback on motion control, hover stability, target accuracy, and training progress.
-image: myosa-lap-trainer-cover.png
+image: laptrainer/myosa-lap-trainer-cover.png
 tags:
   - MYOSA
   - Biomedical Engineering
@@ -54,35 +54,35 @@ These skills were chosen based on the same general ideas used in laparoscopic sk
 ### Images
 
 <p align="center">
-  <img src="myosa-lap-trainer-cover.png" width="800"><br/>
+  <img src="/assets/images/laptrainer/myosa-lap-trainer-cover.png" width="800"><br/>
   <i>Annotated full-system overview showing the practice rig, trocar-entry tube, obstacle poles, MYOSA electronics, live dashboard, target/dock station, and mock laparoscopic tool.</i>
 </p>
 
 <p align="center">
-  <img src="myosa-lap-trainer-tool.png" width="800"><br/>
+  <img src="/assets/images/laptrainer/myosa-lap-trainer-tool.png" width="800"><br/>
   <i>Sensorized mock laparoscopic tool with ergonomic 3D-printed handle, laparoscopic-style shaft, MPU6050 motion sensor, and spliced lead wires.</i>
 </p>
 
 <p align="center">
-  <img src="myosa-lap-trainer-dashboard.png" width="800"><br/>
+  <img src="/assets/images/laptrainer/myosa-lap-trainer-dashboard.png" width="800"><br/>
   <i>Live coaching dashboard with phase progression, task prompt, real-time coaching cue, motion smoothness, hover tracking, tool orientation, and target lock status.</i>
 </p>
 
 <p align="center">
-  <img src="myosa-lap-trainer-poor-feedback.png" width="800"><br/>
+  <img src="/assets/images/laptrainer/myosa-lap-trainer-poor-feedback.png" width="800"><br/>
   <i>Poor trial review showing low course and hover scores, unstable hover feedback, and specific improvement cues.</i>
 </p>
 
 <p align="center">
-  <img src="myosa-lap-trainer-good-feedback.png" width="800"><br/>
+  <img src="/assets/images/laptrainer/myosa-lap-trainer-good-feedback.png" width="800"><br/>
   <i>Strong trial review showing high component scores, stable hover performance, strong axis control, and smooth approach through the course.</i>
 </p>
 
 ### Videos
 
-<video controls width="100%">
-  <source src="myosa-lap-trainer-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/8DlVRPeJ-Rw"></iframe>
+</div>
 
 ---
 
