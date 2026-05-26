@@ -2,14 +2,14 @@
 publishDate: 2026-05-24
 title: BioSync, Real-Time Multi-Parameter Bio-Responsive Health Monitoring & Adaptive Alert System
 excerpt: BioSync is a wrist-worn, battery-powered health monitoring system built on the MYOSA ESP32 platform that continuously tracks heart rate, SpO₂, stress index, motion, and environment, and alerts the wearer and remote caregivers the moment a health anomaly is detected.
-image: BioSync/cover.png
+image: biosync/cover.png
 tags:
   - health-monitoring
   - wearable
   - iot
 ---
 <p align="center">
-  <img src="/cover.png" width="800"><br/>
+  <img src="/assets/images/biosync/cover.png" width="800"><br/>
   <i>cover.png</i>
 </p>
 
@@ -52,22 +52,22 @@ The ESP32 has exactly one WiFi responsibility: publish a 300-byte JSON vitals pa
 ### Images
 
 <p align="center">
-  <img src="/cover.png" width="800"><br/>
+  <img src="/assets/images/biosync/cover.png" width="800"><br/>
   <i>BioSync Prototype</i>
 </p>
 
 <p align="center">
-  <img src="/biosync_hardware.png" width="800"><br/>
+  <img src="/assets/images/biosync/biosync_hardware.png" width="800"><br/>
   <i>BioSync Hardware</i>
 </p>
 
 <p align="center">
-  <img src="/local_dashboard_home_page.png" width="800"><br/>
+  <img src="/assets/images/biosync/local_dashboard_home_page.png" width="800"><br/>
   <i>Local Dashboard Home Page</i>
 </p>
 
 <p align="center">
-  <img src="/grafana_dashboard_1.png" width="800"><br/>
+  <img src="/assets/images/biosync/grafana_dashboard_1.png" width="800"><br/>
   <i>Grafana Dashboard</i>
 </p>
 
@@ -75,12 +75,17 @@ The ESP32 has exactly one WiFi responsibility: publish a 300-byte JSON vitals pa
 
 **Presentation**
 
-https://github.com/user-attachments/assets/b8237d21-2828-4da1-aef9-1e99e509c851
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/NndqvxJFMfANndqvxJFMfA"></iframe>
+</div>
 
 **Demo**
 
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/U0lz_s4NJrA"></iframe>
+</div>
 
-https://github.com/user-attachments/assets/298202d3-5555-4bc8-a8f7-e69f5dcea371
+
 
 ---
 
