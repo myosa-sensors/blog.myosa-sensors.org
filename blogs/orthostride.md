@@ -72,13 +72,13 @@ OrthoStride addresses this gap by embedding motion sensing and pressure detectio
 **Presentation**
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/oEldVJIImo4"></iframe>
+  <iframe src="https://www.youtube.com/embed/EGWh9-Jw6ck"></iframe>
 </div>
 
 **Demonstration**
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/oEldVJIImo4"></iframe>
+  <iframe src="https://www.youtube.com/embed/WnEr2qo4hfk"></iframe>
 </div>
 
 ---
