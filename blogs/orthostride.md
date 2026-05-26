@@ -5,7 +5,7 @@ title: OrthoStride — Smart Rehabilitation Footwear for Real-Time Gait Monitori
 
 excerpt: OrthoStride is a MYOSA-powered smart footwear system that monitors human gait in real time using IMU and FSR pressure sensors, delivering instant haptic feedback and clinical insights for rehabilitation patients.
 
-image: orthostride-cover.jpeg
+image: orthostride/orthostride-cover.jpeg
 
 tags:
   - Healthcare
@@ -50,20 +50,20 @@ OrthoStride addresses this gap by embedding motion sensing and pressure detectio
 ### Images
 
 <p align="center">
-  <img src="/orthostride-cover.jpeg" width="800"><br/>
+  <img src="/assets/images/orthostride/orthostride-cover.jpeg" width="800"><br/>
 
   <i>OrthoStride smart footwear with MYOSA board and multi-sensor array</i>
 </p>
 
 <p align="center">
-  <img src="/orthostride-app-dashboard.jpeg" width="800"><br/>
-<img src="/orthostride-dashboard-2.jpeg" width="800"><br/>
-  <img src="/orthostride-dashboard-3.jpeg" width="800"><br/>
+  <img src="/assets/images/orthostride/orthostride-app-dashboard.jpeg" width="800"><br/>
+<img src="/assets/images/orthostride/orthostride-dashboard-2.jpeg" width="800"><br/>
+  <img src="/assets/images/orthostride/orthostride-dashboard-3.jpeg" width="800"><br/>
   <i>OrthoStride Dashboard — Live display of tilt angle, step count, cadence, fall detection, and pressure heatmap</i>
 </p>
 
 <p align="center">
-  <img src="/orthostride-block-diagram.jpg" width="800"><br/>
+  <img src="/assets/images/orthostride//orthostride-block-diagram.jpg" width="800"><br/>
   <i>System Architecture: Sensors → MYOSA Board → Real-time Feedback and Clinical Insights</i>
 </p>
 
@@ -71,15 +71,15 @@ OrthoStride addresses this gap by embedding motion sensing and pressure detectio
 
 **Presentation**
 
-<video controls width="100%">
-  <source src="/orthostride-presentation.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/oEldVJIImo4"></iframe>
+</div>
 
 **Demonstration**
 
-<video controls width="100%">
-  <source src="/orthostride-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/oEldVJIImo4"></iframe>
+</div>
 
 ---
 
