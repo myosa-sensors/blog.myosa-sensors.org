@@ -9,6 +9,7 @@ tags:
 - ESP32
 - Wearable
 - Embedded-Systems
+---
 
 > Empowering immobilized users with completely hands-free, intuitive communication through precision head-tracking and infrared blink detection.
 
