@@ -1,17 +1,18 @@
 ---
-#### Publish Date: 2026-05-24
+publishDate: 2026-05-24
+title: "AthletIQ: An Agentic AI Biomechanical Coach for Athletes Using the MYOSA Mini IoT Kit"
+excerpt: A unified smart-belt wearable that turns a single low-cost inertial sensor into lab-grade biomechanical feedback, delivering real-time, multi-mode athletic and postural coaching through an on-device intelligence layer and an interactive dashboard.
+image: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg
+tags:
+  - Agentic AI
+  - Biomechanics
+  - MYOSA Mini IoT Kit
+  - Wearable Technology
+  - Athletic Coaching
+---
 
-#### Title: AthletIQ: An Agentic AI Biomechanical Coach for Athletes Using the MYOSA Mini IoT Kit
-
-#### A unified smart-belt wearable that turns a single low-cost inertial sensor into lab-grade biomechanical feedback, delivering real-time, multi-mode athletic and postural coaching through an on-device intelligence layer and an interactive dashboard.
-
-<p align="center">
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" alt="Google Gemini" width="50" />
-  </a>
-  <br>
-  <strong> AthletIQ Powered by Google Gemini</strong>
-</p>
+> Turning a single sensor into lab-grade feedback — real-time coaching for peak performance.  
+> **Analyze. Adapt. AthletIQ**
 
 ---
 
