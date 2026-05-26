@@ -1,20 +1,15 @@
 ---
-**publishDate**: 2026-05-24
-
-**title**: DODO – Speech Assistant Toy for Speech Disabled Kids
-
-**excerpt**: DODO is an interactive speech therapy toy designed to assist children with speech disabilities through real-time speech recognition, multisensory feedback, and engaging therapy activities.
-<p align="center">
-  <img src="coverimage.jpg" width="800"><br/>
-</p>
-
-**tags**:
-
-Speech Therapy
-Embedded AI
-ESP32
-MYOSA Sensors
-Assistive Technology
+publishDate: 2026-05-24
+title: DODO – Speech Assistant Toy for Speech Disabled Kids
+excerpt: DODO is an interactive speech therapy toy designed to assist children with speech disabilities through real-time speech recognition, multisensory feedback, and engaging therapy activities.
+image: coverimage.jpg
+tags:
+  - Speech Therapy
+  - Embedded AI
+  - ESP32
+  - MYOSA Sensors
+  - Assistive Technology
+---
 
 Making speech therapy interactive, engaging, and accessible for children through AI-enabled assistive technology.
 
