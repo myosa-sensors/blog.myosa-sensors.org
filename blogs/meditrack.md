@@ -5,7 +5,7 @@ title: MediTrack - Intelligent Medication Habit Monitor
 
 excerpt: MediTrack is a smart IoT healthcare system built on the MYOSA platform that detects real medication-taking behavior using motion sensing, promotes adherence through intelligent feedback, and provides real-time monitoring through an OLED interface and live web dashboard.
 
-image: meditrack-logo.png
+image: meditrack/meditrack-logo.png
 
 tags:
   - healthcare
@@ -73,22 +73,21 @@ MediTrack aims to bridge the gap between simple reminders and actual behavioral 
 ### Images
 
 <p align="center">
-  <img src="./assets/images/meditrack/meditrack-hardware.jpg" width="800"><br/>
+  <img src="/assets/images/meditrack/meditrack-hardware.jpg" width="800"><br/>
   <i>MediTrack hardware prototype using MYOSA ESP32, MPU6050, OLED display, and buzzer modules</i>
 </p>
 
 <p align="center">
-  <img src="./assets/images/meditrack/meditrack-dashboard.jpg" width="800"><br/>
+  <img src="/assets/images/meditrack/meditrack-dashboard.jpg" width="800"><br/>
   <i>Real-time local dashboard displaying adherence tracking and medication status</i>
 </p>
 
 ### Videos
 
-<video controls width="100%">
-  <source src="./meditrack-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/-Kzi8hstP7A"></iframe>
+</div>
 
-[Download / View Demo Video](./meditrack-demo.mp4)
 
 ---
 
