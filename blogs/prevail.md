@@ -1,10 +1,8 @@
-# PREVAIL
-Smart Landfill fire monitoring system
 ---
 publishDate: 2025-07-24T00:00:00Z
 title: "PREVAIL: IoT-Based Landfill Fire Monitoring System"
 excerpt: "A low-cost ESP32-based multi-sensor IoT system that monitors landfill environmental conditions and detects elevated fire-risk conditions using sensor fusion."
-image: prevail-cover.jpg
+image: prevail/prevail-cover.jpg
 
 tags:
   - IoT
@@ -54,54 +52,52 @@ Key features:
 ## Images 
 
 <p align="center">
-  <img src="./block-diagram.jpg" width="700"><br/>
+  <img src="/assets/images/prevail//block-diagram.jpg" width="700"><br/>
   <i>Basic block diagram of PREVAIL.</i>
 </p>
 
 <p align="center">
-  <img src="./simulation.jpeg" width="700"><br/>
+  <img src="/assets/images/prevail/simulation.jpeg" width="700"><br/>
   <i>SIMULATION</i>
 </p>
 
 <p align="center">
-  <img src="./hardware-setup.jpeg" width="700"><br/>
+  <img src="/assets/images/prevail/hardware-setup.jpeg" width="700"><br/>
   <i>Complete hardware setup of the PREVAIL prototype.</i>
 </p>
 
 <p align="center">
-  <img src="./oled-display.jpeg" width="700"><br/>
+  <img src="/assets/images/prevail/oled-display.jpeg" width="700"><br/>
   <i>OLED display showing live environmental sensor readings.</i>
 </p>
 
 <p align="center">
-  <img src="./sensor-connections.jpeg" width="700"><br/>
+  <img src="/assets/images/prevail/sensor-connections.jpeg" width="700"><br/>
   <i>Sensor wiring connections with ESP32 controller.</i>
 </p>
 
 
 <p align="center">
-  <img src="./blynk-dashboard-1.jpeg" width="900"><br/>
+  <img src="/assets/images/prevail/blynk-dashboard-1.jpeg" width="900"><br/>
     <i>Blynk IoT interface showing live environmental monitoring, gas alerts, vibration status, and fire-risk indication.</i>
 </p>
 
 <p align="center">
-  <img src="./blynk-dashboard-2.jpeg" width="900"><br/>
+  <img src="/assets/images/prevail/blynk-dashboard-2.jpeg" width="900"><br/>
   <i>Real-time Blynk dashboard displaying environmental sensor trends, gas concentration levels, and system statistics.</i>
 </p>
 ## Videos 
 
-<p align="center">
-  <video controls width="800">
-    <source src="./prevail-demo.mp4" type="video/mp4">
-  </video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/RaHsaFbBZmI"></iframe>
+</div>
   <br/>
   <i>Demonstration of the PREVAIL monitoring system showing live sensor readings and OLED page rotation.</i>
 </p>
 
-<p align="center">
-  <video controls width="800">
-    <source src="./prevail-presentation.mp4" type="video/mp4">
-  </video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/3sUeHqM9cD4"></iframe>
+</div>
   <br/>
   <i>Project presentation explaining the PREVAIL system architecture, sensor integration, and working principle.</i>
 </p>
