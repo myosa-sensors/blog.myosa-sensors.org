@@ -2,7 +2,7 @@
 publishDate: 2026-05-24T00:00:00Z
 title: SmartSoil Guardian
 excerpt: ESP32-based intelligent irrigation and predictive weed-risk monitoring system.
-image: smartsoilguardian-cover.jpg
+image: smartsoil/smartsoilguardian-cover.jpg
 tags:
 - iot
 - agriculture
@@ -33,14 +33,14 @@ It also performs predictive weed-risk monitoring using environmental conditions 
 ### Images
 
 <p align="center">
-<img src="smartsoilguardian-cover.jpg" width="800"><br/>
+<img src="/assets/images/smartsoil/smartsoilguardian-cover.jpg" width="800"><br/>
 <i>Complete SmartSoil Guardian Prototype</i>
 </p>
 
 ### Videos
 
 <video controls width="100%">
-<source src="smartsoilguardian-final-demo.mp4" type="video/mp4">
+<source src="/assets/images/smartsoil/smartsoilguardian-final-demo.mp4" type="video/mp4">
 </video>
 
 ---
@@ -97,39 +97,39 @@ Open-source educational project.
 ### Images
 
 <p align="center">
-  <img src="./smartsoilguardian-cover.jpg" width="800">
+  <img src="/assets/images/smartsoil/smartsoilguardian-cover.jpg" width="800">
   <br/>
   <i>Complete SmartSoil Guardian Prototype</i>
 </p>
 
 <p align="center">
-  <img src="./prototype-setup.jpg" width="800">
+  <img src="/assets/images/smartsoil/prototype-setup.jpg" width="800">
   <br/>
   <i>Prototype Setup</i>
 </p>
 
 <p align="center">
-  <img src="./soil-sensor.jpg" width="800">
+  <img src="/assets/images/smartsoil/soil-sensor.jpg" width="800">
   <br/>
   <i>Soil Moisture Sensor</i>
 </p>
 
 <p align="center">
-  <img src="./LED-serial-monitor.jpg" width="800">
+  <img src="/assets/images/smartsoil/LED-serial-monitor.jpg" width="800">
   <br/>
   <i>Live Serial Monitor Output</i>
 </p>
 
 <p align="center">
-  <img src="./iot-monitoring.jpg" width="800">
+  <img src="/assets/images/smartsoil/iot-monitoring.jpg" width="800">
   <br/>
   <i>IoT Monitoring Dashboard</i>
 </p>
 
 ### Video
 
-<video width="100%" controls>
-  <source src="./smartsoilguardian-final-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/FOcJJQcrP3E"></iframe>
+</div>
 
 
