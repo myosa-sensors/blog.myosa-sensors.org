@@ -5,7 +5,7 @@ title: SmartSenseCNC
 
 excerpt: SmartSenseCNC is an AI-powered Industrial IoT system for real-time CNC machine monitoring, downtime detection, and machine-state classification using ESP32, embedded sensors, and Machine Learning.
 
-image: smartsensecnchardware-setup.jpeg
+image: smartsensecnc/smartsensecnchardware-setup.jpeg
 
 tags:
   - industrial-iot
@@ -136,14 +136,6 @@ The major objectives of the project are:
 </p>
 
 ### Videos
-
-<video controls width="100%">
-  <source src="/assests/videos/smartsensecnc-presentation.mp4" type="video/mp4">
-</video>
-
-<video controls width="100%">
-  <source src="/assests/videos/smartsensecnc-demo.mp4" type="video/mp4">
-</video>
 
 #### Demonstration Video
 
