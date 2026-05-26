@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-07-24T00:00:00Z
+publishDate: 2026-07-24T00:00:00Z
 title: "PREVAIL: IoT-Based Landfill Fire Monitoring System"
 excerpt: "A low-cost ESP32-based multi-sensor IoT system that monitors landfill environmental conditions and detects elevated fire-risk conditions using sensor fusion."
 image: prevail/hardware-setup.jpeg
