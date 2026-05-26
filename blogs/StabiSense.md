@@ -1,7 +1,7 @@
-# StabiSense – A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
-
 ---
 publishDate: 2026-05-25T00:00:00Z
+title: StabiSense – A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
+image: stabisense/full-setup.jpeg
 ---
 
 > An embedded AI system that detects tremors, landslides, and seismic shocks in real time — displayed locally on an OLED and remotely through a browser telemetry dashboard.
@@ -36,28 +36,25 @@ The model classifies incoming motion into one of four states in real time. A loc
 ### **Images**
 
 <p align="center">
-  <img src="full-setup.jpeg" width="800"><br/>
+  <img src="/assets/images/stabisense/full-setup.jpeg" width="800"><br/>
   <i>Complete system in operation — MYOSA sensor kit connected over USB, browser dashboard streaming live accelerometer waveforms from the ESP32 TinyML inference pipeline</i>
 </p>
 
 <p align="center">
-  <img src="hardware-closeup.jpeg" width="800"><br/>
+  <img src="/assets/images/stabisense/hardware-closeup.jpeg" width="800"><br/>
   <i>MYOSA ESP32 board with MPU6050 (AccelAndGyro), BMP180 (BarometricPressure), APDS9960 (gesture), and SSD1306 OLED mounted in the sensor kit enclosure</i>
 </p>
 
 <p align="center">
-  <img src="dashboard-live-seismic.jpeg" width="800"><br/>
+  <img src="/assets/images/stabisense/dashboard-live-seismic.jpeg" width="800"><br/>
   <i>Browser telemetry dashboard showing a live seismic event — three-channel oscilloscope traces (ax, ay, az) with AI classification panel and real-time sensor values</i>
 </p>
 
 ### **Videos**
 
-<p align="center">
-  <a href="https://github.com/phi5ic/StabiSense/raw/main/demo_YP5JgmB8.mp4">
-    <img src="dashboard-live-seismic.jpeg" width="800"><br/>
-    <i>▶ Click to watch demo video</i>
-  </a>
-</p>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/DNCQMXVK4Yc"></iframe>
+</div>
 
 ---
 
