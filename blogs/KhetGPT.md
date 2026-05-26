@@ -1,10 +1,10 @@
 ---
 Publish Date: 2026-05-09
- 
+
 Title: KhetGPT — AI-Powered Daily Agricultural Advisory System
  
 Excerpt: A MYOSA Mini field node that reads all onboard sensors, pipes the data to a cloud server, calls a Gemini LLM, and delivers a personalised daily farm advisory to the farmer on Telegram — automatically, every day.
- 
+image: khetgpt/khetgpt_cover_img.png
 Tags:
   - Agriculture
   - AI
@@ -18,7 +18,7 @@ Tags:
   - Social Impact
 ---
 <p align="center">
-  <img src="assets/images/khetgpt_cover_img.png" width="800"><br/>
+  <img src="assets/images/khetgpt/khetgpt_cover_img.png" width="800"><br/>
   <i>KhetGPT</i>
 </p>
 
@@ -53,24 +53,18 @@ No dashboard to check. No app to install. No technical knowledge needed. Just a 
  ## Demo / Examples
 ### **Image**
  <p align="center">
-  <img src="assets/images/myosa-img.png" width="800"><br/>
+  <img src="assets/images/khetgpt/myosa-img.png" width="800"><br/>
   <i>Prototype</i>
 </p>
 
  ### **Videos**
- <video controls width="100%">
-  <source src="myosa-demo.mp4" type="video/mp4">
-</video>
-<p align="center"><i>Demo</i></p>
-<i><h4>If Demo is not loaded, you can refer to the external <a href="https://drive.google.com/file/d/1cT4op5hqxDaO5wd02GfCW2naYTxVvihY/view?usp=sharing">link</a> here, or the video is uploaded locally on this repo to download and watch</h4></i>
-<br>
- <video controls width="100%">
-  <source src="khetgpt-presentation.mp4" type="video/mp4">
-</video>
-<p align="center"><i>Presentation</i>
-<i><h4>If Presentation is not loaded, you can refer to the external <a href="https://drive.google.com/file/d/1UTSvr8qcSRD0UA18-H1VEk3If_vgpE-N/view?usp=sharing">link</a> here, or the video is uploaded locally on this repo to download and watch</h4></i>
-</p>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/09GkLUOPwIU"></iframe>
+</div>
 
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/6qCnj1Am9UA"></iframe>
+</div>
 ## Features (Detailed)
 ### **1. Sensor data collection**
 The MYOSA Mini's BMP180 and APDS9960 are both actively read every loop cycle:
