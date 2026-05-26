@@ -2,7 +2,7 @@
 publishDate: 2026-05-24
 title: Integrated Multi-Hazard Worker Safety & Communication System
 excerpt: Smart wearable industrial safety helmet with real-time hazard detection and emergency communication using IoT and ESP32.
-image: Integrated_Multi_Hazard_Worker_Safety_System/Images/cover.jpeg
+image: Multi_Hazard_Worker/cover.jpeg
 tags:
 - iot
 - industrial-safety
@@ -49,26 +49,29 @@ This project introduces a smart IoT-based safety helmet capable of real-time env
 ### Images
 
 <p align="center">
-<img src="/Integrated_Multi_Hazard_Worker_Safety_System/Images/helmet.jpeg" width="800"><br/>
+<img src="/assets/images/Multi_Hazard_Worker/helmet.jpeg" width="800"><br/>
 <i>Smart Safety Helmet Prototype</i>
 </p>
 
 <p align="center">
-<img src="/Integrated_Multi_Hazard_Worker_Safety_System/Images/dashboard.jpeg" width="800"><br/>
+<img src="/assets/images/Multi_Hazard_Worker/dashboard.jpeg" width="800"><br/>
 <i>Flask Monitoring Dashboard</i>
 </p>
 
 <p align="center">
-<img src="/Integrated_Multi_Hazard_Worker_Safety_System/Images/hardware.jpeg" width="800"><br/>
+<img src="/assets/images/Multi_Hazard_Worker/hardware.jpeg" width="800"><br/>
 <i>Hardware Components Used in the System</i>
 </p>
 
 ## Videos
 
-Click the image below to watch the demo video.
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/G09XEFK2IKI"></iframe>
+</div>
 
-[![Watch Demo](Integrated_Multi_Hazard_Worker_Safety_System/Images/cover.jpeg)](Integrated_Multi_Hazard_Worker_Safety_System/Video/demo.mp4)
----
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/gguPgmvEGIA"></iframe>
+</div>
 
 ## Features (Detailed)
 
