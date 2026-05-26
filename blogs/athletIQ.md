@@ -2,7 +2,7 @@
 publishDate: 2026-05-24
 title: "AthletIQ: An Agentic AI Biomechanical Coach for Athletes Using the MYOSA Mini IoT Kit"
 excerpt: A unified smart-belt wearable that turns a single low-cost inertial sensor into lab-grade biomechanical feedback, delivering real-time, multi-mode athletic and postural coaching through an on-device intelligence layer and an interactive dashboard.
-image: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg
+image: AthletIQ/prototype.png
 tags:
   - Agentic AI
   - Biomechanics
