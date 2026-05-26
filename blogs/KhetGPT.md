@@ -1,11 +1,9 @@
 ---
-Publish Date: 2026-05-09
-
-Title: KhetGPT — AI-Powered Daily Agricultural Advisory System
- 
-Excerpt: A MYOSA Mini field node that reads all onboard sensors, pipes the data to a cloud server, calls a Gemini LLM, and delivers a personalised daily farm advisory to the farmer on Telegram — automatically, every day.
-image: khetgpt/khetgpt_cover_img.png
-Tags:
+publishDate: 2026-05-09
+title: KhetGPT — AI-Powered Daily Agricultural Advisory System
+excerpt: A MYOSA Mini field node that reads all onboard sensors, pipes the data to a cloud server, calls a Gemini LLM, and delivers a personalised daily farm advisory to the farmer on Telegram — automatically, every day.
+image: assets/images/khetgpt/khetgpt_cover_img.png
+tags:
   - Agriculture
   - AI
   - LLM
@@ -17,14 +15,10 @@ Tags:
   - APDS9960
   - Social Impact
 ---
-<p align="center">
-  <img src="assets/images/khetgpt/khetgpt_cover_img.png" width="800"><br/>
-  <i>KhetGPT</i>
-</p>
 
+> Every day, your field speaks — KhetGPT listens and tells you exactly what to do.  
+> **Listen. Advise. KhetGPT**
 
-> Every day, your field speaks — KhetGPT listens and tells you exactly what to do.
- 
 ---
 ## Acknowledgements
  
