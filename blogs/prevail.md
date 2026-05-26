@@ -2,7 +2,7 @@
 publishDate: 2025-07-24T00:00:00Z
 title: "PREVAIL: IoT-Based Landfill Fire Monitoring System"
 excerpt: "A low-cost ESP32-based multi-sensor IoT system that monitors landfill environmental conditions and detects elevated fire-risk conditions using sensor fusion."
-image: prevail/prevail-cover.jpg
+image: prevail/hardware-setup.jpeg
 
 tags:
   - IoT
@@ -70,12 +70,6 @@ Key features:
   <img src="/assets/images/prevail/oled-display.jpeg" width="700"><br/>
   <i>OLED display showing live environmental sensor readings.</i>
 </p>
-
-<p align="center">
-  <img src="/assets/images/prevail/sensor-connections.jpeg" width="700"><br/>
-  <i>Sensor wiring connections with ESP32 controller.</i>
-</p>
-
 
 <p align="center">
   <img src="/assets/images/prevail/blynk-dashboard-1.jpeg" width="900"><br/>
