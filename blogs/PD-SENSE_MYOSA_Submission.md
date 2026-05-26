@@ -76,9 +76,9 @@ PD-SENSE fills that gap. It is a wrist-worn monitoring aid and therapeutic suppo
 
 ### **Videos**
 
-<video controls width="100%">
-  <source src="/pd-sense-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/gV51VyiJ6XU"></iframe>
+</div>
 
 ---
 
