@@ -50,17 +50,17 @@ PD-SENSE fills that gap. It is a wrist-worn monitoring aid and therapeutic suppo
 ### **Images**
 
 <p align="center">
-  <img src="/assets/images/PD-SENSE/pd-sense-cover.jpg" width="800"><br/>
+  <img src="/assets/images/PD-SENSE/PD_SENSE_FOAM.jpg" width="800"><br/>
   <i>PD-SENSE assembled on foam base — all MYOSA sensor boards connected via JST daisy-chain</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/PD-SENSE/pd-sense-oled-display.jpg" width="800"><br/>
+  <img src="/assets/images/PD-SENSE/OLED_DISPLAY.jpg" width="800"><br/>
   <i>OLED live readout — tremor score, bradykinesia grade, gait state, and session timer</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/PD-SENSE/pd-sense-wiring.jpg" width="800"><br/>
+  <img src="/assets/images/PD-SENSE/PD_SENSE_TEST1.jpg" width="800"><br/>
   <i>JST daisy-chain wiring — six sensor boards connected in sequence with direct buzzer on GPIO25</i>
 </p>
 
@@ -70,7 +70,7 @@ PD-SENSE fills that gap. It is a wrist-worn monitoring aid and therapeutic suppo
 </p>
 
 <p align="center">
-  <img src="/assets/images/PD-SENSE/pd-sense-blynk-app.jpg" width="800"><br/>
+  <img src="/assets/images/PD-SENSE/PD_SENSE_MK1.jpg" width="800"><br/>
   <i>Blynk mobile app — live SuperChart, BK grade gauge, freeze LED during competition demo</i>
 </p>
 
