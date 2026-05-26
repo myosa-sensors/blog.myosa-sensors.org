@@ -2,7 +2,7 @@
 publishDate: 2026-05-24T00:00:00Z
 title: VitalRest Prototype 1
 excerpt: A non-wearable sleep apnea monitoring and alert system utilizing mattress-based micro-vibration sensing designed for resource-constrained households.
-image: vitalrest-prototype-1/overview-system.jpg
+image: vitalrest-prototype-1/cover-image.jpeg
 tags:
   - biomedical-engineering
   - embedded-systems
@@ -36,17 +36,17 @@ Every night across Uganda, life-threatening conditions like obstructive sleep ap
 ### **Images**
 
 <p align="center">
-  <img src="/assets/images/vitalrest-prototype-1/cover-image.jpg" width="800"><br/>
+  <img src="/assets/images/vitalrest-prototype-1/cover-image.jpeg" width="800"><br/>
   <i>Figure 1: Cover image showing connected components of the SensoPad (a motion sensor on the black surface) and the BedUnit hub (display, buzzer and motherboard)</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/vitalrest-prototype-1/display-showing-monitoring.jpg" width="800"><br/>
+  <img src="/assets/images/vitalrest-prototype-1/display-showing-monitoring.jpeg" width="800"><br/>
   <i>Figure 2: Display showing monitoring</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/vitalrest-prototype-1/display-showing-apnea.jpg" width="800"><br/>
+  <img src="/assets/images/vitalrest-prototype-1/display-showing-apnea.jpeg" width="800"><br/>
   <i>Figure 3: Display showing Apnea</i>
 </p>
 
