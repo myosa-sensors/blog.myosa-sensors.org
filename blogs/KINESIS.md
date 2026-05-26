@@ -1,10 +1,11 @@
 ---
+publishDate: 2026-05-24
 title: "KINESIS — AI-driven rehab monitoring with MYOSA"
 team: Team KINESIS
 cover: KINESIS/cover.png
 ---
 
-<img src="KINESIS/cover.png">
+<img src="/assets/images/KINESIS/cover.png">
 
 ## The problem
 
@@ -143,8 +144,14 @@ form changes across weeks of recovery.
 
 ## Demo videos
 
-- **[KINESIS-demo.mp4](KINESIS/KINESIS-demo.mp4)** — patient PWA walkthrough: signing in, picking an exercise, enabling the camera, pairing the MYOSA IMU, live tracking with the 3D mirror.
-- **[KINESIS-demo-2.mp4](KINESIS/KINESIS-demo-2.mp4)** — clinician dashboard walkthrough: cohort view, per-patient detail, ROM trajectories, AI insights, messages.
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/WLFthcOwTbA"></iframe>
+</div>
+— patient PWA walkthrough: signing in, picking an exercise, enabling the camera, pairing the MYOSA IMU, live tracking with the 3D mirror.
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/RwnnOy1k-mk"></iframe>
+</div>
+— clinician dashboard walkthrough: cohort view, per-patient detail, ROM trajectories, AI insights, messages.
 
 ## The team
 
