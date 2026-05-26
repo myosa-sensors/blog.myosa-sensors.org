@@ -2,7 +2,7 @@
 publishDate: 2026-05-24
 title: DODO – Speech Assistant Toy for Speech Disabled Kids
 excerpt: DODO is an interactive speech therapy toy designed to assist children with speech disabilities through real-time speech recognition, multisensory feedback, and engaging therapy activities.
-image: coverimage.jpg
+image:   dodo/coverimage.jpg
 tags:
   - Speech Therapy
   - Embedded AI
@@ -49,17 +49,17 @@ DODO listens to the child’s pronunciation, analyzes speech patterns in real ti
 ##Demo/Examples
 
 <p align="center">
-  <img src="spectrogram.jpg" width="800"><br/>
+  <img src="/assets/images/dodo/spectrogram.jpg" width="800"><br/>
   <i>Spectrogram Created Using Samples The first stage of the pipeline involves feature extraction. Raw audio samples are processed into a spectrogram, which represents the frequency content of the sound over time. This visual representation helps the model identify unique "audio signatures" associated with different speech patterns.</i>
 </p>
 
 <p align="center">
-  <img src="umap.jpg" width="800"><br/>
+  <img src="/assets/images/dodo/umap.jpg" width="800"><br/>
   <i>The U-Map visualization provides a graphical representation of the entire dataset. It clusters similar data points together, allowing the team to verify that the collected samples are distinct and that there is a clear separation between different classes (e.g., specific words vs. background noise).</i>
 </p>
 
 <p align="center">
-  <img src="arduino_library.jpg"width="800"><br/>
+  <img src="/assets/images/dodo/arduino_library.jpg"width="800"><br/>
   <i>Arduino library created using trained model.
 </i>
 </p>
@@ -160,6 +160,10 @@ Installation
 ​8.Upload the source code to the ESP32 using Arduino IDE.  
 ​9.Power ON the system and verify the setup using the initialization cues on the OLED display. 
 ##Videos
-<video controls width="100%">
-  <source src="demovideo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/9w8IEtaUTNw"></iframe>
+</div>
+
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/fY1quYNjsrQ"></iframe>
+</div>
