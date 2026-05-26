@@ -1,12 +1,17 @@
-# NeuroAdaptive Learning Companion
+---
+publishDate: 2026-05-24
+title: NeuroAdaptive Learning Companion
+excerpt: A calm, adaptive learning companion designed to support focus, regulation, and engagement without using invasive monitoring.
+image: manovritti/manovritti-cover.jpeg
+tags:
+  - NeuroAdaptive Learning
+  - Assistive Technology
+  - Focus & Regulation
+  - Inclusive Education
+---
 
-> A calm, adaptive learning companion designed to support focus, regulation, and engagement without using invasive monitoring.
-
-<p align="center">
-<img src="/Images/manovritti-cover.jpeg" width="800"><br/>
-<i>MANOVRITTI - NeuroAdaptive Learning Companion.</i>
-</p>
-
+> A calm, adaptive learning companion designed to support focus, regulation, and engagement without using invasive monitoring.  
+> **Focus. Regulate. MANOVRITTI**
 ---
 
 ## Acknowledgements
@@ -39,12 +44,12 @@ Many existing learning systems rely on intrusive monitoring (cameras, microphone
 ### Dashboard Images
 
 <p align="center">
-<img src="/Images/dashboard-manovritti.jpeg" width="800"><br/>
+<img src="/assets/images/manovritti/dashboard-manovritti.jpeg" width="800"><br/>
 <i>Main application dashboard providing comprehensive therapy insights and learning engagement.</i>
 </p>
 
 <p align="center">
-<img src="/Images/therapy-setup.png" width="800"><br/>
+<img src="/assets/images/manovritti/therapy-setup.png" width="800"><br/>
 <i>Session management and therapy configuration screen.</i>
 </p>
 
@@ -54,12 +59,12 @@ Many existing learning systems rely on intrusive monitoring (cameras, microphone
 </p>
 
 <p align="center">
-<img src="/Images/therapy-timeline.png" width="800"><br/>
+<img src="/assets/images/manovritti/therapy-timeline.png" width="800"><br/>
 <i>Interactive therapy flow and session timeline.</i>
 </p>
 
 <p align="center">
-<img src="/Images/history-trends.png" width="800"><br/>
+<img src="/assets/images/manovritti/history-trends.png" width="800"><br/>
 <i>Historical trends and progress reports for continuous tracking.</i>
 </p>
 
@@ -67,11 +72,9 @@ Many existing learning systems rely on intrusive monitoring (cameras, microphone
 
 ### Presentation Video
 
-<video controls width="100%">
-  <source src="/Videos/manovritti-presentation.mp4" type="video/mp4">
-</video>
-
-https://github.com/user-attachments/assets/0800f1f5-1ef4-4804-802f-634a42cd946b
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/49OxcOQzY-c"></iframe>
+</div>
 
 ---
 
