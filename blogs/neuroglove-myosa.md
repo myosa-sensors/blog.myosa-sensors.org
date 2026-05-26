@@ -5,7 +5,7 @@ title: Adaptive Motor Synchronization & Coaching System (NeuroGlove)
 
 excerpt: AI-assisted wearable glove for real-time neuromotor monitoring, motion instability detection, grip-force analysis, and adaptive rehabilitation feedback.
 
-image: neuroglove/neuroglove-cover.jpg
+image: neuroglove/neuroglove-cover.jpeg
 
 tags:
   - healthcare
@@ -59,10 +59,10 @@ The wearable integrates:
   <img src="/assets/images/neuroglove/NeuroGlove1.jpeg" width="800"><br/>
 </p>
 <p align="center">
-  <img src="/assets/images/neuroglove/NeuroGlove2.jpeg" width="800"><br/>
+  <img src="/assets/images/neuroglove/NeuroGlove2.jpg" width="800"><br/>
 </p>
 <p align="center">
-  <img src="/assets/images/neuroglove/NeuroGlove3.jpeg" width="800"><br/>
+  <img src="/assets/images/neuroglove/NeuroGlove3.jpg" width="800"><br/>
 </p>
 
 ## Video
