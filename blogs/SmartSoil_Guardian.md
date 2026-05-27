@@ -37,13 +37,6 @@ It also performs predictive weed-risk monitoring using environmental conditions 
 <i>Complete SmartSoil Guardian Prototype</i>
 </p>
 
-### Videos
-
-<video controls width="100%">
-<source src="/assets/images/smartsoil/smartsoilguardian-final-demo.mp4" type="video/mp4">
-</video>
-
----
 
 ## Features (Detailed)
 
