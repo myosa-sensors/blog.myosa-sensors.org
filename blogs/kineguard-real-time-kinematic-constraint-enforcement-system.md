@@ -145,6 +145,18 @@ kineguard continuously tracks:
 The MPU6050 IMU sensor provides raw accelerometer and gyroscope data which is processed using sensor fusion algorithms to generate stable kinematic measurements.
 
 ---
+### **Videos**
+
+**Presentation**
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/2QzGK2m_mMw"></iframe>
+</div>
+
+**Live Demo**
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/8WubJlyVPpY"></iframe>
+</div>
+---
 
 ### Velocity-Dependent Dynamic Thresholding Engine
 
