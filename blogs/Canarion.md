@@ -2,7 +2,7 @@
 publishDate: 2026-05-24T00:00:00Z
 title: Canarion - Autonomous Sub-1 GHz Worker Safety Ecosystem
 excerpt: An intelligent RF-based wearable and base station ecosystem that autonomously monitors hazardous environments and detects emergencies without relying on cellular networks.
-image: CANARION/canarion-cover.jpg
+image: CANARION/canarion-wearable.jpg
 tags:
   - iot
   - wearable
