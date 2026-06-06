@@ -115,7 +115,7 @@ Light gets 5% — visual stress matters but less than the others.
 ## The OLED Display — Live Feedback
 
 <p align="center">
-  <img src="/assets/images/pulseenv/oled.png" width="100%" alt="OLED showing live SCI readings and sensor values">
+  <img src="/assets/images/pulseenv/oled display pusleenv.png" width="100%" alt="OLED showing live SCI readings and sensor values">
   <br/>
   <i>OLED showing 5 rows of live data. SCI goes red when stress spikes.</i>
 </p>
@@ -158,6 +158,10 @@ Then open: `http://192.168.4.1`
 ---
 
 ## Live Demo — What We Show
+
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/GVFi71wpEjs"></iframe>
+</div>
 
 **Phase 1 — Baseline (60 seconds)**
 Volunteer sits still. System calibrates. Dashboard shows green. All readings stable.
