@@ -119,7 +119,7 @@ Sensors Used
 
 <img src="/assets/images/sensors/pressure_light_gyro_sensors.jpg" width="800">
 
-<img src="/assets/images/sensors/oled.jpg" width="800">
+<img src="/assets/images/sensors/OLED.jpg" width="800">
 
 <img src="/assets/images/sensors/ESP32.jpg" width="800">
 
