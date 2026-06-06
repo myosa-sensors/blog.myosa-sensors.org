@@ -83,9 +83,10 @@ Infrastructure failure is one of the most preventable yet persistent crises glob
 
 **Recorded Presentation (5 min):**
 
-<video controls width="100%">
-  <source src="/structsense-presentation.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/u9mPcZkk4SM"></iframe>
+</div>
+
 
 **Demonstration Video (3 min):**
 
