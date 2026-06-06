@@ -2,7 +2,8 @@
 publishDate: 2026-05-24
 title: MYOSA Digital Triplet
 excerpt: AI-powered industrial motor monitoring and predictive maintenance system using distributed telemetry, digital twins, and intelligent diagnostics.
-image: digital-triplet/dashboard.jpg
+image: digital-triplet/fullsystem.jpg
+
 tags:
 - ai
 - digital-twin
