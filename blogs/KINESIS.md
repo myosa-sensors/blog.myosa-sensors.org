@@ -2,7 +2,7 @@
 publishDate: 2026-05-24
 title: "KINESIS — AI-driven rehab monitoring with MYOSA"
 team: Team KINESIS
-cover: KINESIS/cover.png
+image: KINESIS/cover.png
 ---
 
 <img src="/assets/images/KINESIS/cover.png">
