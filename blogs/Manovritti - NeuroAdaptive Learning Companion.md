@@ -54,7 +54,7 @@ Many existing learning systems rely on intrusive monitoring (cameras, microphone
 </p>
 
 <p align="center">
-<img src="/Images/patient-analytics.png" width="800"><br/>
+<img src="/Images/manovritti/patient-analytics.png" width="800"><br/>
 <i>Detailed analytics panel showcasing student interaction response patterns.</i>
 </p>
 
