@@ -5,7 +5,8 @@ title: PD-SENSE — Parkinson's Disease Monitoring and Therapeutic Wrist Device
 
 excerpt: A wrist-worn device built on the MYOSA Mini Kit that detects Parkinson's motor symptoms in real time, delivers on-device gait freeze therapy, and streams patient data to a doctor dashboard — all from a ₹150 foam wristband.
 
-image: PD-SENSE/pd-sense-cover.jpg
+image: PD_SENSE/pd-sense-cover.jpg
+
 
 tags:
   - Healthcare
