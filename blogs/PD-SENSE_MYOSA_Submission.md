@@ -66,11 +66,6 @@ PD-SENSE fills that gap. It is a wrist-worn monitoring aid and therapeutic suppo
 </p>
 
 <p align="center">
-  <img src="/assets/images/PD_SENSE/pd-sense-doctor-dashboard.jpg" width="800"><br/>
-  <i>Doctor web dashboard — Firebase real-time tremor trend, freeze events, medication timeline</i>
-</p>
-
-<p align="center">
   <img src="/assets/images/PD_SENSE/PD_SENSE_MK1.jpg" width="800"><br/>
   <i>Blynk mobile app — live SuperChart, BK grade gauge, freeze LED during competition demo</i>
 </p>
