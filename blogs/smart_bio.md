@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-08-01
-title: "**Smart BIO AIR Version 2.0:** Agentic AI-Driven Indoor Algae Based Air Purification System Using MYOSA Mini IoT Kit"
+title: Smart BIO AIR Version 2.0: Agentic AI-Driven Indoor Algae Based Air Purification System Using MYOSA Mini IoT Kit
 excerpt: An AI-powered autonomous algae bioreactor that combines Edge AI, IoT, LangGraph multi-agent reasoning, and cloud analytics to monitor biological health, predict system behaviour, automate maintenance, and improve indoor air quality.
 image: smart-air/Img1.jpg
 ---
@@ -166,7 +166,7 @@ graph TD
 <h3 align="center"> Prototype </h3>
 <p align="center">
   <img src="/assets/images/smart-air/Img2_.png" width="45%" />
-  <img src="img/algae bioreactor.gif" width="45%" /> 
+  <img src="/assets/images/smart-air/algae bioreactor.gif" width="45%" /> 
 </p>
 
 ---
