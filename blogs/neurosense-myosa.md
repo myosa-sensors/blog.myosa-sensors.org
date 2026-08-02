@@ -96,7 +96,7 @@ Shared assets: training plots, Streamlit dashboard, STDP protocol, demo video, a
 ### Videos
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/jhnnIoXpXMM"></iframe>
+  <iframe src="https://www.youtube.com/embed/UU8zN7-UeP8"></iframe>
 </div>
 ---
 
