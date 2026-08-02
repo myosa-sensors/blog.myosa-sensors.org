@@ -86,6 +86,11 @@ const blogs = [
   "blogs/structsense.md",
   "blogs/smartsecnc.md",
   "blogs/kineguard-real-time-kinematic-constraint-enforcement-system.md",
+  "blogs/neurosense-myosa.md",
+  "blogs/Seziure-Detection.md",
+  "blogs/smart_bio.md",
+  "blogs/Smart_Herd.md",
+  "blogs/Umwana.md",
    "blogs/sitx.md"
 ];
 
