@@ -91,6 +91,7 @@ const blogs = [
   "blogs/smart_bio.md",
   "blogs/Smart_Herd.md",
   "blogs/Umwana.md",
+  "blogs/neuroguard-myosa.md",
    "blogs/sitx.md"
 ];
 
