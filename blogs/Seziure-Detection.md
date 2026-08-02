@@ -1,8 +1,8 @@
 ---
 publishDate: 2026-07-31T00:00:00Z
-title: "Seizure Detection Device"
+title: Seizure Detection Device
 excerpt: "A MYOSA and ESP32-based wearable device that detects seizure-like motion, fall events, and gait activity while providing real-time alerts and web-based monitoring."
-image: Seziure-Detection/Device image.png
+image: Seziure-Detection/Device-image.png
 tags:
   - MYOSA
   - ESP32
