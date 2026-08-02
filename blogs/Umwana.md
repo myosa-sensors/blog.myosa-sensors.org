@@ -2,7 +2,7 @@
 publishDate: 2026-07-30
 title: Smart Baby Monitor
 excerpt: A smart baby monitor system designed to provide real-time monitoring and safety alerts for infants.
-image: Unwana/cover-image.png
+image: Unwama/cover-image.png
 
 tags:
   - IoT
@@ -38,7 +38,7 @@ The system consists of three main components:
 ### Images
 
 <p align="center">
-  <img src="/assets/images/Unwana/cover-image.png" width="800"><br/>
+  <img src="/assets/images/Unwama/cover-image.png" width="800"><br/>
   <i>Smart Baby Monitoring </i>
 </p>
 
