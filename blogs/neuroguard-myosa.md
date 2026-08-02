@@ -14,7 +14,7 @@ tags:
   - wearable-tech
   - neurological-safety
   - emergency-response
-
+---
 > An AI-driven wearable safety vest that predicts, detects, and physically intervenes during neurological emergencies before injury occurs.
 ---
 
@@ -106,7 +106,7 @@ The wearable integrates:
 ### Demo Video
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/3c8kWAWdJkc "></iframe>
+  <iframe src="https://www.youtube.com/embed/wbfjX0Ej_9U"></iframe>
 </div>
 
 ## Tech Stack
