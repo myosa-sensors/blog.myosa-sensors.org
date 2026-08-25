@@ -2,7 +2,7 @@
 publishDate: 2026-08-23
 title: EduNode GCS - Autonomous Edge AI Telemetry Station
 excerpt: A dual-core RTOS edge AI ground control station built on the MYOSA board to protect mini-racks from thermal runaway and physical tampering.
-image: edunode/edunode-cover.jpg
+image: myosa-edunode/edunode-cover.jpg
 tags:
   - MYOSA
   - ESP32
