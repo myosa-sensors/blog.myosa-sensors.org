@@ -43,7 +43,7 @@ Pulse confirmation is the rougher edge. The APDS9960 isn't a real PPG sensor, an
 <p align="center"><sub>Full setup — MPU6050, APDS9960, BMP180, OLED, and buzzer daisy-chained off the MYOSA motherboard</sub></p>
 </td>
 <td width="50%">
-<img src="assets/images/photo-03-oled-boot.jpg" width="100%"/>
+<img src="assets/images/panicsense/photo-03-oled-boot.jpg" width="100%"/>
 <p align="center"><sub>Boot splash — Team MANDI MASALA</sub></p>
 </td>
 </tr>
