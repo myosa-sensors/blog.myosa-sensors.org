@@ -101,7 +101,7 @@ A manual push button returns the system to baseline, replacing the non-functiona
 ### Videos
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/7yvIYwR1Ruw></iframe>
+  <iframe src="https://www.youtube.com/embed/7yvIYwR1Ruw"></iframe>
 </div>
 
 <div class="youtube-embed">
