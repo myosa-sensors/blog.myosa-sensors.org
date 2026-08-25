@@ -1,5 +1,5 @@
 ---
-publishDate: 2026-08-23T00:00:00Z
+publishDate: 2026-08-23
 title: EduNode GCS - Autonomous Edge AI Telemetry Station
 excerpt: A dual-core RTOS edge AI ground control station built on the MYOSA board to protect mini-racks from thermal runaway and physical tampering.
 image: edunode/edunode-cover.jpg
@@ -9,9 +9,9 @@ tags:
   - FreeRTOS
   - Edge-AI
   - Python
-
-> An intelligent thermal and security monitoring watchdog built on the MYOSA board for reliable, real-time edge telemetry.
 ---
+> An intelligent thermal and security monitoring watchdog built on the MYOSA board for reliable, real-time edge telemetry.
+
 ## Acknowledgements
 Developed by Luis Eduardo Arenas Deseano and Lixin Tu. Special thanks to the MYOSA Event 6.0 organization for providing the hardware development kit that made this edge computing architecture possible.
 
