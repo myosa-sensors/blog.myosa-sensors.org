@@ -128,6 +128,14 @@ const blogs = [
   "blogs/SENTRA.md",
   "blogs/ConfinedGuard.md",
   "blogs/PhysioPulse.md",
+  "blogs/surfaceleak-blog.md",
+  "blogs/silentsign.md",
+  "blogs/presense-myosa.md",
+  "blogs/TamperTrace.md",
+  "blogs/prevaills.md",
+  "blogs/ecoflame-myosa-submission-updated.md",
+  "blogs/myosa_steadypoint.md",
+  "blogs/intellimap (1).md",
    "blogs/sitx.md"
 ];
 
