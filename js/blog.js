@@ -98,6 +98,16 @@ const blogs = [
   "blogs/Umwana.md",
   "blogs/neuroguard-myosa.md",
   "blogs/sitguard.md",
+  "blogs/scattersense.md",
+  "blogs/persona.md",
+  "blogs/dhruv-myosa-coldchain.md",
+  "blogs/pnemoguard.md",
+  "blogs/logisheild.md",
+  "blogs/cairn.md",
+  "blogs/bagbee.md",
+  "blogs/parkinsons-hand-tremor-screening.md",
+  "blogs/transitguard.md",
+  "blogs/sky-mast.md",
    "blogs/sitx.md"
 ];
 
