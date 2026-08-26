@@ -108,6 +108,16 @@ const blogs = [
   "blogs/parkinsons-hand-tremor-screening.md",
   "blogs/transitguard.md",
   "blogs/sky-mast.md",
+  "blogs/myosa-brakeguard.md",
+  "blogs/myosa-neurodrive.md",
+  "blogs/DeepWorks.md",
+  "blogs/pulseenv.md",
+  "blogs/shipment-sentinel.md",
+  "blogs/neuroclip.md",
+  "blogs/voicegest.md",
+  "blogs/DriveGuard.md",
+  "blogs/myosa-horta-automatica.md",
+  "blogs/machine-whisper.md",
    "blogs/sitx.md"
 ];
 
