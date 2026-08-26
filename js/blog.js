@@ -118,6 +118,16 @@ const blogs = [
   "blogs/DriveGuard.md",
   "blogs/myosa-horta-automatica.md",
   "blogs/machine-whisper.md",
+  "blogs/BreathSense.md",
+  "blogs/interrupt-zero.md",
+  "blogs/pilloguard.md",
+  "blogs/PneumoCoach.md",
+  "blogs/DysphagiaGuard.md",
+  "blogs/myosa-centinela.md",
+  "blogs/synchro-cps.md",
+  "blogs/SENTRA.md",
+  "blogs/ConfinedGuard.md",
+  "blogs/PhysioPulse.md",
    "blogs/sitx.md"
 ];
 
