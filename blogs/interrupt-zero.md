@@ -1,23 +1,20 @@
 ---
 publishDate: 2026-08-23
+
 title: Interrupt Zero — Edge-Fused In-Cabin Telematics Hub for Active V2X Hazard Mitigation and Touchless HMI
+
 excerpt: A dual-core ESP32 telematics hub that fuses inertial and pneumatic sensor data to eliminate false-positive crash alerts, paired with an interrupt-driven touchless gesture HMI.
----
 
-<p align="center">
-  <img src="/assets/images/cover.png" width="800"><br/>
-</p>
+image: /assets/images/cover.png
 
-
-
-
-**tags:**
+tags:
   - MYOSA
   - ESP32
   - Automotive
   - SensorFusion
   - IEEE
 ---
+
 > Fusing motion and pressure at the edge to tell a real crash from a pothole — without ever touching a button.
 ---
 
@@ -47,35 +44,36 @@ The system runs real-time multi-sensor fusion on a single deterministic I²C bus
 ### Images
 
 <p align="center">
-  <img src="/assets/images/fusion-decision-flow.png" width="800"><br/>
+  <img src="/assets/images/interruptzero/fusion-decision-flow.png" width="800"><br/>
   <i>Dual-Factor Crash Fusion Decision Loop</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/scenario-a.png" width="800"><br/>
+  <img src="/assets/images/interruptzero/scenario-a.png" width="800"><br/>
   <i>Scenario A -Road Anomaly</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/scenario-b.png" width="800"><br/>
+  <img src="/assets/images/interruptzero/scenario-b.png" width="800"><br/>
   <i>Scenario B -True Accident</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/dashboard.png" width="800"><br/>
+  <img src="/assets/images/interruptzero/dashboard.png" width="800"><br/>
   <i>Stable Dashboard</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/crash-dashboard.png" width="800"><br/>
+  <img src="/assets/images/interruptzero/crash-dashboard.png" width="800"><br/>
   <i>Accident Dashboard</i>
 </p>
 
 ### Videos
 
-[![Watch Demo Video](/assets/images/video-thumbnail.png)](/assets/videos/interrupt-zero-myosa.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/vMpOTJ1_tRg"></iframe>
+</div>
 
----
 
 ## Features (Detailed)
 
