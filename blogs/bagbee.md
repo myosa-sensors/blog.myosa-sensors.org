@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: BagBee - The Luggage Sentinel
 excerpt: BagBee is a touchless, verified-alert luggage security node that detects suspicious movement, silently notifies the owner, and escalates only when the alert goes unverified.
-image: bagbee-cover.jpg
+image: bagbee/bagbee-cover.jpg
 tags:
   - iot
   - esp32
@@ -90,35 +90,34 @@ The entire decision pipeline runs locally on the ESP32, so BagBee works reliably
 ### Images
 
 <p align="center">
-<img src="bagbee-cover.jpg" width="800"><br/>
+<img src="/assets/images/bagbee/bagbee-cover.jpg" width="800"><br/>
 <i>BagBee — touchless, verified-alert luggage security concept</i>
 </p>
 
 <p align="center">
-<img src="prototype.jpg" width="800"><br/>
+<img src="/assets/images/bagbee/prototype.jpg" width="800"><br/>
 <i>BagBee prototype, built using the MYOSA Mini IoT Kit</i>
 </p>
 
 <p align="center">
-<img src="gesture-arming.jpg" width="800"><br/>
+<img src="/assets/images/bagbee/gesture-arming.jpg" width="800"><br/>
 <i>The touchless gesture sequence used to arm the system</i>
 </p>
 
 <p align="center">
-<img src="ble-alert.jpg" width="800"><br/>
+<img src="/assets/images/bagbee/ble-alert.jpg" width="800"><br/>
 <i>Silent BLE pre-alert received on the owner's smartphone</i>
 </p>
 
 <p align="center">
-<img src="alarm-demo.jpg" width="800"><br/>
+<img src="/assets/images/bagbee/alarm-demo.jpg" width="800"><br/>
 <i>Alarm escalation after an unverified, suspicious movement</i>
 </p>
 
 ### Videos
-
-<video controls width="100%">
-<source src="bagbee-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/-wHNJj4PlKQ"></iframe>
+</div>
 
 ---
 
