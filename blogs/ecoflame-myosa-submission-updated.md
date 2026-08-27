@@ -1,6 +1,5 @@
-
 ---
-publishDate: 2026-08-24T00:00:00Z
+publishDate: 2026-08-24
 title: EcoFlame – Smart LPG Optimization and Wastage Prevention System
 excerpt: EcoFlame is an ESP32-based smart LPG stove monitoring system that tracks knob position, flame quality, vessel presence, temperature and gas usage, then streams live telemetry to Firebase for a Flutter dashboard with analytics, cost estimation and safety alerts.
 image: ecoflame/Myosa_cover.jpeg
