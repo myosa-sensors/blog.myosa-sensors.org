@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: "SYNCHRO-CPS: Real-Time Cross-Modal Anomaly Isolation Engine"
 excerpt: "An intelligent edge computing framework on ESP32 that eliminates false-positive industrial alarms caused by thermal micro-climatic drift using cross-modal sensor discrimination."
-image: /assets/images/synchro-cps/cover.jpg
+image: synchro/cover.jpg
 tags:
   - ESP32
   - Edge Logic
@@ -29,20 +29,30 @@ Industrial Cyber-Physical Systems (CPS) heavily rely on single-sensor edge thres
 
 ### **Images**
 
-![SYNCHRO-CPS Test Rig](cover.jpg)
-*SYNCHRO-CPS Physical Test Rig mounted on MYOSA ESP32 modular platform*
+<p align="center">
+  <img src="/assets/images/synchro/cover.jpg" width="800"><br/>
+  <i>SYNCHRO-CPS Physical Test Rig mounted on MYOSA ESP32 modular platform</i>
+</p>
 
-![Dual-Axis Telemetry Plot](synchro_cps_dual_axis_benchmark.png)
-*Dual-Axis Telemetry Plot: Real-time sensor deltas mapped against edge state classifications across all test phases*
+<p align="center">
+  <img src="/assets/images/synchro/synchro_cps_dual_axis_benchmark.png" width="800"><br/>
+  <i>Dual-Axis Telemetry Plot: Real-time sensor deltas mapped against edge state classifications across all test phases</i>
+</p>
 
-![Quantitative Performance Benchmark](synchro_cps_benchmark_chart.png)
-*Quantitative Performance Benchmark: Achieving 99.78% classification accuracy across continuous telemetry samples*
+<p align="center">
+  <img src="/assets/images/synchro/synchro_cps_benchmark_chart.png" width="800"><br/>
+  <i>Quantitative Performance Benchmark: Achieving 99.78% classification accuracy across continuous telemetry samples</i>
+</p>
 
-![Digital Twin Interface](digitaltwin-dashboard.png)
-*Live Cyber-Physical Digital Twin Interface: Real-time telemetry streaming over serial*
+<p align="center">
+  <img src="/assets/images/synchro/digitaltwin-dashboard.png" width="800"><br/>
+  <i>Live Cyber-Physical Digital Twin Interface: Real-time telemetry streaming over serial</i>
+</p>
 ### **Videos**
 
-[▶ Watch Digital Twin Demo Video](synchro-dashboard-video.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/GhsVhikKJqw"></iframe>
+</div>
 
 ---
 
