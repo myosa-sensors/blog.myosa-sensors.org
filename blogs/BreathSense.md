@@ -1,9 +1,22 @@
-## BreathSense - MYOSA Musical Breath Activity
+---
+publishDate: 2026-08-27
 
-<p align="center">
-  <img src="mouthpiece_completed.jpeg" width="400"><br/>
-  <i>Breathsense: a CO2 Detecting mouthpiece using MYOSA board and sensors.</i>
-</p>
+title: BreathSense - MYOSA Musical Breath Activity
+
+excerpt: A CO2 detecting mouthpiece using the MYOSA board and sensors.
+
+image: breathsense/mouthpiece_completed.jpeg
+
+tags:
+  - MYOSA
+  - BreathSense
+  - CO2Sensor
+  - Hardware
+---
+
+> BreathSense: a CO2 Detecting mouthpiece using MYOSA board and sensors.
+
+---
 
 ## Acknowledgements
 
@@ -30,20 +43,20 @@ Musicians rely heavily on breath control to shape dynamics, phrasing, tone and e
 ### Images
 
 <p align="center">
-  <img src="myosa_breakout.jpg" width="400"><br/>
+  <img src="/assets/images/breathsense/myosa_breakout.jpg" width="400"><br/>
   <i>Closeup of MYOSA breakout board.</i>
 </p>
 
 <p align="center">
-  <img src="mouthpiece_on_trombone.jpeg" width="400"><br/>
+  <img src="/assets/images/breathsense/mouthpiece_on_trombone.jpeg" width="400"><br/>
   <i>Mouthpiece attached to real instrument.</i>
 </p>
 
 ### Videos
 
-<video controls width="100%">
-  <source src="./breathsense_promovid.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/KNR7a2TfJwQ"></iframe>
+</div>
 
 
 ## Features (Detailed)
