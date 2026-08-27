@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: PilloGuard - AI-Powered Closed-Loop Pneumatic Sleep Assistance System
 excerpt: PilloGuard is an intelligent sleep-assistance system that combines snoring detection, physiological monitoring, head-position tracking, and closed-loop pneumatic intervention using the MYOSA platform.
-image: cover.jpg
+image: pillowguard/cover.jpg
 tags:
   - sleep-monitoring
   - snoring-detection
@@ -55,7 +55,13 @@ The ESP32 collects the required hardware data and controls the pneumatic system.
 
 ### Images
 
-Project images and hardware photographs will be added here.
+<p align="center">
+  <img src="/assets/images/pillowguard/WhatsApp Image 2026-08-25 at 9.10.42 PM.jpeg" width="800"><br/> 
+</p>
+
+<p align="center">
+  <img src="/assets/images/pillowguard/WhatsApp Image 2026-08-25 at 9.10.55 PM.jpeg" width="800"><br/> 
+</p>
 
 ### Videos
 
