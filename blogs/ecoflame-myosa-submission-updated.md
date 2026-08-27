@@ -3,7 +3,7 @@
 publishDate: 2026-08-24T00:00:00Z
 title: EcoFlame – Smart LPG Optimization and Wastage Prevention System
 excerpt: EcoFlame is an ESP32-based smart LPG stove monitoring system that tracks knob position, flame quality, vessel presence, temperature and gas usage, then streams live telemetry to Firebase for a Flutter dashboard with analytics, cost estimation and safety alerts.
-image: Myosa_cover.jpeg
+image: ecoflame/Myosa_cover.jpeg
 tags:
   - MYOSA
   - IoT
@@ -121,44 +121,63 @@ The project evolved from an initial edge-sensing prototype using **MPU6050, APDS
 
 ### Images
 
-## Calibration Images
-![Calib](ecoflame-calibration-1.jpg)
+### Calibration Images
 
-![alt text](ecoflame-calibration-2.jpg)
+<p align="center">
+  <img src="/assets/images/ecoflame/ecoflame-calibration-1.jpg" width="800"><br/>
+</p>
 
-![alt text](ecoflame-calibration-3.jpg)
+<p align="center">
+  <img src="/assets/images/ecoflame/ecoflame-calibration-2.jpg" width="800"><br/>
+</p>
+
+<p align="center">
+  <img src="/assets/images/ecoflame/ecoflame-calibration-3.jpg" width="800"><br/>
+</p>
+
 ### Live Dashboard
 
 The Live Dashboard provides the current state of the stove, including system status, efficiency score, live gas usage, flame condition, knob setting and vessel detection.
 
-
 <p align="center">
-<img src="./live-1.jpeg" width="800"><br/>
-
+  <img src="/assets/images/ecoflame/live-1.jpeg" width="800"><br/>
 </p>
 
 <p align="center">
-<img src="./live-2.jpeg" width="800"><br/>
-<i>EcoFlame Flutter Live Dashboard showing real-time stove telemetry.</i>
+  <img src="/assets/images/ecoflame/live-2.jpeg" width="800"><br/>
+  <i>EcoFlame Flutter Live Dashboard showing real-time stove telemetry.</i>
 </p>
-
 
 ### Analytics & Cost
 
 The Analytics & Cost tab converts cooking-session data into useful information such as cooking time, cooking cost, projected monthly cost and an energy-efficiency recommendation.
 
 <p align="center">
-<img src="./analytics.jpeg" width="800"><br/>
+  <img src="/assets/images/ecoflame/analytics.jpeg" width="800"><br/>
+  <i>EcoFlame Flutter Analytics & Cost dashboard showing cooking analytics, projected cost and recommendations.</i>
+</p>
+
+### Analytics & Cost
+
+The Analytics & Cost tab converts cooking-session data into useful information such as cooking time, cooking cost, projected monthly cost and an energy-efficiency recommendation.
+
+<p align="center">
+<img src="/assets/images/ecoflame/analytics.jpeg" width="800"><br/>
 <i>EcoFlame Flutter Analytics & Cost dashboard showing cooking analytics, projected cost and recommendations.</i>
 </p>
 
 ### Videos
 
-[Watch the Demo video](/Demo.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/ZDaLKAden50"></iframe>
+</div>
 
 The intended demonstration shows the hardware sensing the stove, the ESP32 processing telemetry, Firebase receiving the data, and the Flutter application displaying live and analytical results.
 
-[Watch the Presentation Video](/presentation.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/9U3853cbF6Q"></iframe>
+</div>
+
 
 ---
 
