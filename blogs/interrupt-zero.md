@@ -5,7 +5,7 @@ title: Interrupt Zero — Edge-Fused In-Cabin Telematics Hub for Active V2X Haza
 
 excerpt: A dual-core ESP32 telematics hub that fuses inertial and pneumatic sensor data to eliminate false-positive crash alerts, paired with an interrupt-driven touchless gesture HMI.
 
-image: /assets/images/cover.png
+image: interruptzero/cover.png
 
 tags:
   - MYOSA
