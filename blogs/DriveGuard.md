@@ -1,13 +1,23 @@
-# DriveGuard 
-### Intelligent Driver Safety Monitoring & Warning System for Hazardous Road Conditions
+---
+publishDate: 2026-08-25
+
+title: DriveGuard — Intelligent Driver Safety Monitoring & Warning System for Hazardous Road Conditions
+
+excerpt: A low-cost, multi-sensor driver-assistance system designed to improve road safety in hazardous driving environments using environmental sensing, vehicle-dynamics monitoring, and obstacle detection.
+
+tags:
+  - DriveGuard
+  - Automotive
+  - Safety
+  - SensorFusion
+  - DriverAssistance
+---
 
 > Sense the environment. Understand the road. Warn before it's too late.
 
 DriveGuard is a low-cost, multi-sensor driver-assistance system designed to improve road safety in hazardous driving environments such as fog-prone roads, mountainous terrain, hairpin bends, sharp curves, and low-visibility conditions.
 
 The system combines environmental sensing, vehicle-dynamics monitoring, GPS-based hazard awareness, terrain estimation, and obstacle detection to generate a real-time driving-risk assessment and provide timely visual, audible, and haptic warnings.
-
----
 
 ## 📌 Overview
 
