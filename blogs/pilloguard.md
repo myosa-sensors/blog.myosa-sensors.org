@@ -65,9 +65,10 @@ The ESP32 collects the required hardware data and controls the pneumatic system.
 
 ### Videos
 
-<video controls width="100%">
-  <source src="/pilloguard-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/oGK-s0qDeWw"></iframe>
+</div>
+
 
 ---
 
