@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: CENTINELA
 excerpt: A wearable safety device for lone/remote workers that detects falls with an on-device (embedded) ML model, sounds a buzzer alarm the worker can cancel with a gesture, and reports live over WiFi or a private LoRa gateway.
-image: myosa-centinela/cover.jpg
+image: myosa-centinela/first-prototype-black.jpg
 tags:
 - ESP32
 - LoRaWAN
@@ -90,9 +90,9 @@ We're from Colombia's Caribbean coast, and out here the heat is no small thing â
 
 ### Videos
 
-<video controls width="100%">
-  <source src="/myosa-centinela-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/ezFMyxb91yU"></iframe>
+</div>
 
 ---
 
