@@ -1,12 +1,33 @@
-| **publishDate** | 2026-08-25 |
-| :--- | :--- |
-| **title** | PhysioPulse - Smart Physiotherapy Monitoring Sleeve |
-| **excerpt** | A wearable physiotherapy monitoring system combining MYOSA sensing... |
-| **image** | ![PhysioPulse Cover](physiopulse-myosa-cover-image.PNG) |
-| **tags** | MYOSA, Physiotherapy, Biomechanics, LinearAlgebra, WearableTechnology, MotionAnalysis, WebBluetooth, FastAPI, DigitalHealth |
+---
+publishDate: 2026-08-25
+
+title: PhysioPulse - Smart Physiotherapy Monitoring Sleeve
+
+excerpt: A wearable physiotherapy monitoring system combining MYOSA sensing...
+
+image: physiopulse/physiopulse-myosa-cover-image.PNG
+
+tags:
+
+- MYOSA
+
+- Physiotherapy
+
+- Biomechanics
+
+- inearAlgebra
+
+- WearableTechnology
+
+- MotionAnalysis
+
+- WebBluetooth
+
+- FastAPI
+
+- DigitalHealth
 
 > From raw sensor vectors to biologically meaningful movement — PhysioPulse makes rehabilitation measurable, explainable, and personalized.
-
 ---
 
 ## Acknowledgements
@@ -59,38 +80,36 @@ The MPU6050 provides acceleration and angular velocity, but it does not understa
 
 ### **Images**
 <p align="center">
-  <img src="physiopulse-myosa-patient-dashboard.jpeg" width="800"><br/>
+  <img src="/assets/images/physiopulse/physiopulse-myosa-patient-dashboard.jpeg" width="800"><br/>
   <i>Patient Dashboard</i>
 </p>
 
 <p align="center">
-  <img src="physiopulse-myosa-patient-exercise.jpeg" width="800"><br/>
+  <img src="/assets/images/physiopulse/physiopulse-myosa-patient-exercise.jpeg" width="800"><br/>
   <i>Patient Exercise</i>
 </p>
 
 <p align="center">
-  <img src="physiopulse-myosa-doctor.png" width="800"><br/>
+  <img src="/assets/images/physiopulse/physiopulse-myosa-doctor.png" width="800"><br/>
   <i>Doctor Dashboard</i>
 </p>
 
 <p align="center">
-  <img src="physiopulse-myosa-hand.jpeg" width="800"><br/>
+  <img src="/assets/images/physiopulse/physiopulse-myosa-hand.jpeg" width="800"><br/>
   <i>Hand Exercise</i>
 </p>
 
 <p align="center">
-  <img src="physiopulse-myosa-leg.jpeg" width="800"><br/>
+  <img src="/assets/images/physiopulse/physiopulse-myosa-leg.jpeg" width="800"><br/>
   <i>Leg Exercise</i>
 </p>
 
 
 ### **Videos**
 
-<video controls width="100%">
-  <source src="/physiopulse-demo.mp4" type="video/mp4">
-</video>
-
-For better quality video, click [<i>Demo Video</i>](https://youtu.be/cy6f_C9twkY).
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/CjdNzSaXu0E"></iframe>
+</div>
 
 ---
 ## Features (Detailed)
