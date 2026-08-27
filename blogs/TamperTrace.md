@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: TamperTrace — Sealed-Enclosure Tamper Detection via Pressure–Light Correlation
 excerpt: ESP32-based sealed-enclosure tamper detection system combining sensor fusion (BMP180, MPU6050, APDS9960, DS1307) with an onboard INT8 TinyML autoencoder to detect covert breaches in complete darkness.
-image: /assets/images/tampertrace/myosa.jpg
+image: tampertrace/myosa.jpg
 tags:
   - ESP32
   - TinyML
@@ -103,11 +103,11 @@ When a sealed enclosure is cracked open, the rapid equalization between internal
 </p>
 
 ### Videos
-*Live Demo* - https://github.com/user-attachments/assets/fdde133c-9d91-4e8b-a44a-dcca97ff1152
 
-<video controls width="100%">
-  <source src="/tampertrace-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/Rsju8qCyj0k"></iframe>
+</div>
+
 
 ---
 
