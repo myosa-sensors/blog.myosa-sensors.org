@@ -5,7 +5,7 @@ title: ConfinedGuard || IEEE EMBS E-JUST SBC
 
 excerpt: A MYOSA-based dual-channel wearable safety system that fuses physiological (body temperature, motion/inactivity) and environmental (CO2, TVOC) hazard signals into one composite risk score, alerting the worker locally and a supervisor remotely via a live Flutter dashboard.
 
-image: ConfinedGuard/cover.jpg
+image: confinedguard/system_flowchart.png
 
 tags:
   - MYOSA
@@ -158,27 +158,16 @@ flowchart LR
 ### Images
 
 <p align="center">
-  <img src="assets/images/confinedguard-img-1.jpg" width="800"><br/>
-  <i>Placeholder — replace with your build/assembly or demo photos</i>
+  <img src="assets/images/confinedguard/system_flowchart.png" width="800"><br/>
 </p>
-
-> **Note:** Add your real JPG/PNG files to this folder (lowercase, no spaces) and update the `src` paths above to match. Following the pattern from the DysphagiaGuard submission, prioritize: (1) bench/assembly shots of the MYOSA motherboard with the Temp, IMU, and Air Quality boards wired in, (2) the enclosure build, (3) the Flutter dashboard screen showing the alert banner and gauges live, and (4) the wearable worn during a test/demo session.
 
 ### Videos
 
 **🎥 Project Presentation & Testing**
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/LsYkkQLzqwE"></iframe>
+</div>
 
-<video controls width="100%">
-  <source src="/confinedguard-presentation-and-testing.mp4" type="video/mp4">
-</video>
-
-**🎥 Backstage / Build Process**
-
-<video controls width="100%">
-  <source src="/confinedguard-backstage.mp4" type="video/mp4">
-</video>
-
-> **Note:** Per the MYOSA submission rules, YouTube links are not accepted — both files must be local `.mp4` uploads placed in the same folder as this markdown file.
 
 ---
 
