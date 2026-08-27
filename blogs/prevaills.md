@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: "PREVAIL-LS: Predictive Real-Time Evaluation and Vigilance for Active Landslide Slopes"
 excerpt: "A low-cost IoT-based landslide monitoring and early-warning system combining multi-sensor fusion, Wi-Fi/LoRa telemetry, and a weighted risk engine for real-time slope safety alerts."
-image: media/images/prevail-ls-demonstration.jpg
+image: prevail/prevail-ls-demonstration.jpg
 tags:
   - IoT
   - ESP32
@@ -44,7 +44,7 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### Physical Prototype
 
 <p align="center">
-  <img src="Physicalsetup.jpeg" width="800"><br/>
+  <img src="/assets/images/prevail/Physicalsetup.jpeg" width="800"><br/>
   <i>Figure 1 — PREVAIL-LS Multi-Node Prototype: physical landslide-slope simulation terrain showing Node 1 and Node 2 positioned across critical monitoring regions.</i>
 </p>
 
@@ -53,7 +53,7 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### Hardware Architecture — Node 1
 
 <p align="center">
-  <img src="Hardware-Architecture-node1.jpeg" width="800"><br/>
+  <img src="/assets/images/prevailHardware-Architecture-node1.jpeg" width="800"><br/>
   <i>Figure 2 — Node 1 Hardware Assembly: close-up view of the sensors (MPU6050, DHT22, BMP180, Ultrasonic), MYOSA ESP32 board, and interface circuitry mounted at the field node.</i>
 </p>
 
@@ -62,7 +62,7 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### System Demonstration & Testing
 
 <p align="center">
-  <img src="Demonstration.jpeg" width="800"><br/>
+  <img src="/assets/images/prevailDemonstration.jpeg" width="800"><br/>
   <i>Figure 3 — PREVAIL-LS Complete Demonstration Setup: integrated view showing the slope terrain model, active monitoring nodes, Base Station, indicator lights, and telemetry outputs.</i>
 </p>
 
@@ -71,44 +71,41 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### Live Cloud Dashboard (ThingSpeak)
 
 <p align="center">
-  <img src="Riskstatus.png" width="800"><br/>
+  <img src="/assets/images/prevailRiskstatus.png" width="800"><br/>
   <i>Figure 4 — PREVAIL-LS Risk Status and System Status widgets, alongside live Soil Moisture and Humidity readouts.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="Livereadings.png" width="800"><br/>
+  <img src="/assets/images/prevailLivereadings.png" width="800"><br/>
   <i>Figure 5 — Current Vibration, Current Pressure, and Current Distance indicator widgets with the Soil Moisture trend chart.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="Dashboardsensorcharts.png" width="800"><br/>
+  <img src="/assets/images/prevailDashboardsensorcharts.png" width="800"><br/>
   <i>Figure 6 — Field charts for Humidity, Atmospheric Pressure, Ground Vibration, and Slope Movement/Distance over time.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="Dashboardlastupdate.png" width="800"><br/>
+  <img src="/assets/images/prevailDashboardlastupdate.png" width="800"><br/>
   <i>Figure 7 — Last Sensor Update timestamp widget, confirming live telemetry reception from the field node.</i>
 </p>
 
 ### Videos
 
-<p align="center">
-  <video controls width="100%">
-    <source src="prevail-ls-demo.mp4" type="video/mp4">
-  </video>
-  <br/><i>Add your local demonstration video at <code>media/prevail-ls-demo.mp4</code> — do not use a YouTube link, per submission guidelines.</i>
-</p>
-<p align="center">
-  <video src="Prevail_LS_Presentation .mp4" width="800" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/eAjNj4P7IUs"></iframe>
+</div>
+
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/Ba03twqZJr8"></iframe>
+</div>
+
 
 ---
 
