@@ -5,7 +5,7 @@ title: CAIRN - Wearable Safety and Fall Detection System
 
 excerpt: CAIRN is an ESP32-based wearable safety system for mountain climbers that detects falls using motion sensing, monitors environmental conditions, and provides immediate local and wireless alerts through a buzzer, OLED display, and a browser-based dashboard.
 
-image: cairn-cover.jpg
+image: cairn/cairn-complete.jpeg
 
 tags:
   - ESP32
@@ -69,21 +69,21 @@ The ESP32 also creates its own Wi-Fi access point, allowing a smartphone to conn
 ### Hardware Setup
 
 <p align="center">
-  <img src="assets/images//cairn/cairn-hardware.jpeg" width="800"><br/>
+  <img src="assets/images/cairn/cairn-hardware.jpeg" width="800"><br/>
   <i>ESP32 and connected sensor hardware</i>
 </p>
 
 ### OLED Interface
 
 <p align="center">
-  <img src="assets/images//cairn/cairn-oled.jpeg" width="800"><br/>
+  <img src="assets/images/cairn/cairn-oled.jpeg" width="800"><br/>
   <i>CAIRN OLED interface showing system status and sensor readings</i>
 </p>
 
 ### Fall Detection Test
 
 <p align="center">
-  <img src="assets/images//cairn/cairn-fall-test.jpeg" width="800"><br/>
+  <img src="assets/images/cairn/cairn-fall-test.jpeg" width="800"><br/>
   <i>Fall detection test demonstrating the emergency alert state</i>
 </p>
 
