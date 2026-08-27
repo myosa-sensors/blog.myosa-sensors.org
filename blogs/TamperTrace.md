@@ -103,12 +103,9 @@ When a sealed enclosure is cracked open, the rapid equalization between internal
 </p>
 
 ### Videos
-
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/Rsju8qCyj0k"></iframe>
 </div>
-
-
 ---
 
 ## Features (Detailed)
