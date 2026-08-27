@@ -1,15 +1,9 @@
+---
+publishDate: 2026-08-22
 
+title: CAIRN - Wearable Safety and Fall Detection System
 
-
-
-**MYOSA 6.0**
-CAIRN - AN INNOVATIVE DEVICE
-
-Publish Date: 22 - 08 - 2026
-
-Title: CAIRN - Wearable Safety and Fall Detection System
-
-Excerpt: CAIRN is an ESP32-based wearable safety system for mountain climbers that detects falls using motion sensing, monitors environmental conditions, and provides immediate local and wireless alerts through a buzzer, OLED display, and a browser-based dashboard.
+excerpt: CAIRN is an ESP32-based wearable safety system for mountain climbers that detects falls using motion sensing, monitors environmental conditions, and provides immediate local and wireless alerts through a buzzer, OLED display, and a browser-based dashboard.
 
 image: cairn-cover.jpg
 
@@ -22,8 +16,6 @@ tags:
 ---
 
 > CAIRN is a wearable safety system that detects falls, monitors the user's environment, and provides immediate alerts through local and wireless interfaces.
-
----
 
 ## Acknowledgements
 
@@ -70,41 +62,43 @@ The ESP32 also creates its own Wi-Fi access point, allowing a smartphone to conn
 ### Current Prototype
 
 <p align="center">
-  <img src="/cairn/cairn-complete.jpeg" width="800"><br/>
+  <img src="assets/images/cairn/cairn-complete.jpeg" width="800"><br/>
   <i>ESP32 and web link</i>
 </p>
 
 ### Hardware Setup
 
 <p align="center">
-  <img src="/cairn/cairn-hardware.jpeg" width="800"><br/>
+  <img src="assets/images//cairn/cairn-hardware.jpeg" width="800"><br/>
   <i>ESP32 and connected sensor hardware</i>
 </p>
 
 ### OLED Interface
 
 <p align="center">
-  <img src="/cairn/cairn-oled.jpeg" width="800"><br/>
+  <img src="assets/images//cairn/cairn-oled.jpeg" width="800"><br/>
   <i>CAIRN OLED interface showing system status and sensor readings</i>
 </p>
 
 ### Fall Detection Test
 
 <p align="center">
-  <img src="/cairn/cairn-fall-test.jpeg" width="800"><br/>
+  <img src="assets/images//cairn/cairn-fall-test.jpeg" width="800"><br/>
   <i>Fall detection test demonstrating the emergency alert state</i>
 </p>
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/22ef629f-2d7f-409a-9a8b-75c9791c8e9f
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/GdbWE4N0NMM"></iframe>
+</div>
 
 
 ### Presentation Video
 
-https://github.com/user-attachments/assets/b8cb9970-7740-438c-876b-a349339f5079
-
-
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/BGopddBkPa4"></iframe>
+</div>
 
 ## Features (Detailed)
 
