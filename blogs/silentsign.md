@@ -1,27 +1,23 @@
 
 
-
-<img width="3854" height="2168" alt="SilentSign_CoverImage jpg" src="https://github.com/user-attachments/assets/74e92f12-3e59-45d5-b4f2-661baff16c08" />
-
 ---
+publishDate: 2026-08-25
 
-PublishDate: 2026-08-25
+title: SilentSign - A Low-Cost Gesture-to-Voice AAC Device
 
-Title: SilentSign - A Low-Cost Gesture-to-Voice AAC Device
+excerpt: A gesture-to-voice AAC prototype built on the MYOSA Mini toolkit, turning wrist gestures into spoken phrases via a live dashboard.
 
-Excerpt: A gesture-to-voice AAC prototype built on the MYOSA Mini toolkit, turning wrist gestures into spoken phrases via a live dashboard.
- 
+image: bagbee/cover-image.jpeg
+
 tags:
-- AAC
-- Assistive Technology
-- ESP32
-- MYOSA
-- Embedded Systems
+  - AAC
+  - Assistive Technology
+  - ESP32
+  - MYOSA
+  - Embedded Systems
 ---
 
 > Giving a voice back to people with speech or communication disabilities.
-
----
 
 ## Acknowledgements
 
@@ -52,19 +48,20 @@ An estimated 70 million people in India live with a speech or communication disa
 
 Team :
 
-<img width="4000" height="2252" alt="20260820_130542 jpg" src="https://github.com/user-attachments/assets/2d8fb592-dd2a-4ae1-ab19-f7890cac8a3c" />
+<img alt="20260820_130542 jpg" src="https://github.com/user-attachments/assets/2d8fb592-dd2a-4ae1-ab19-f7890cac8a3c" />
 
 ------
 
-<img width="4000" height="2252" alt="20260820_114657 jpg" src="https://github.com/user-attachments/assets/87bf658c-bf35-4e80-8425-4ecd0757e18a" />
+<img alt="20260820_114657 jpg" src="https://github.com/user-attachments/assets/87bf658c-bf35-4e80-8425-4ecd0757e18a" />
 
 
 
 
 
 ### Videos
-
-Live Demo (Drive) : https://drive.google.com/file/d/1_qlSOhWAQnA9Q7wqo940EExxJNtTRItW/view?
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/CDIA896csjo"></iframe>
+</div>
 
 ---
 
