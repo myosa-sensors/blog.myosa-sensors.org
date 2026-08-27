@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: TransitGuard - An Edge-Processed Multi-Modal Data Logger
 excerpt: An intelligent, low-power transit logging system built with the MYOSA board to track shocks, environmental extremes, and tamper events during high-value cargo transport.
-image: ./assets/images/cover-image.jpg
+image: transitguard/cover-image.jpg
 tags:
   - ESP32
   - MYOSA
@@ -11,7 +11,7 @@ tags:
   - Supply-Chain
 ---
 <p align="center">
-  <img src="./assets/images/cover-image.jpeg" width="800"><br/>
+  <img src="/assets/images/transitguard/cover-image.jpeg" width="800"><br/>
   <i>TransitGuard: Edge-Processed Multi-Modal Data Logger for High-Value Cargo Monitoring</i>
 </p>
 
@@ -41,54 +41,52 @@ TransitGuard is a compact, battery-powered smart logger that leverages edge comp
 The following images show the circuit design and progressive assembly of the TransitGuard enclosure, from initial module testing to the fully integrated package.
 
 <p align="center">
-  <img src="/assets/images/circuit-diagram.jpeg" width="800"><br/>
+  <img src="/assets/images/transitguard/circuit-diagram.jpeg" width="800"><br/>
   <i>Circuit schematic showing the MYOSA ESP32 board, T856-C power module, and sensor bus</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/internals.jpg" width="800"><br/>
+  <img src="/assets/images/transitguard/internals.jpg" width="800"><br/>
   <i>Bench test setup and wiring arrangement of the sensing suite and processing electronics</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/quarter-assembly.jpg" width="800"><br/>
+  <img src="/assets/images/transitguard/quarter-assembly.jpg" width="800"><br/>
   <i>Initial enclosure fitment and modular wiring integration</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/half-assembly.jpg" width="800"><br/>
+  <img src="/assets/images/transitguard/half-assembly.jpg" width="800"><br/>
   <i>Intermediate assembly of the hardware stack and battery inside the custom housing</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/lid-open.jpg" width="800"><br/>
+  <img src="/assets/images/transitguard/lid-open.jpg" width="800"><br/>
   <i>TransitGuard enclosure opened to reveal the integrated electronics and internal capacitive seal</i>
 </p>
 
 <p align="center">
   <img src="/assets/images/full-pack.jpg" width="800"><br/>
+  <img src="/assets/images/transitguard/full-pack.jpg" width="800"><br/>
   <i>TransitGuard fully assembled and sealed within the protective transport enclosure</i>
 </p>
 
 ### **Web UI & Telemetry Dashboard**
 
 <p align="center">
-  <img src="/assets/images/webui-two.jpeg" width="800"><br/>
+  <img src="/assets/images/transitguard/webui-two.jpeg" width="800"><br/>
   <i>Onboard Web UI displaying live IMU readings, dynamic thresholds, and system health</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/webui-one.jpeg" width="800"><br/>
+  <img src="/assets/images/transitguard/webui-one.jpeg" width="800"><br/>
   <i>Audit log management interface for downloading and parsing CSV telemetry records directly from LittleFS</i>
 </p>
 
 ### **Videos**
-
-<video controls width="100%">
-  <source src=".
-/assets/videos/transitguard-demo.mp4" type="video/mp4">
-</video>
-https://github.com/user-attachments/assets/3e953925-9568-4318-9980-43b475f0cb56
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/ok7xh6BfHVI"></iframe>
+</div>
 
 ## Features (Detailed)
 
