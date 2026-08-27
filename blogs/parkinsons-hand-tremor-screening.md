@@ -2,7 +2,7 @@
 publishDate: 2026-08-24T00:00:00Z
 title: Parkinsons Disease Hand Tremor Diagnosis System
 excerpt: A wrist-worn, on-device prototype that quantifies Parkinsonian hand tremor from IMU signals and screens it with an on-chip XGBoost model — no cloud, validated on 469 real subjects.
-image: /assets/images/parkinsons-hand-tremor-screening/cover.jpg
+image: parkinsons-hand-tremor-screening/cover.jpg
 tags:
  - parkinsons
  - tremor
@@ -76,10 +76,9 @@ We built a **wrist-worn device on the MYOSA kit** that measures hand acceleratio
 </p>
 
 ### Videos
-
-<video controls width="100%">
-  <source src="/demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/39k_cIQAnHw"></iframe>
+</div>
 
 ---
 
