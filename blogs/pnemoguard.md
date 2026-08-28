@@ -2,7 +2,7 @@
 publishDate: 2026-08-24
 title: PneumoGuard - COPD Exacerbation Early Warning System
 excerpt: A sub-₹500 wearable that senses the barometric, humidity, and motion triggers behind COPD exacerbations and warns patients hours before an acute episode.
-image: pneumoGuard/pneumoguard-cover.jpg
+image: pnemoguard/pneumoguard-cover.jpeg
 tags:
 - HealthTech
 - IoT
@@ -30,7 +30,7 @@ We thank our faculty mentor, **Dr. Nishanth N**, Department of Electronics and C
 
 ---
 <p align="center">
-<img src="assets/images/pneumoguard/cover.png" width="800"><br/>
+<img src="assets/images/pneumoguard/cover.jpeg" width="800"><br/>
 <i>PneumoGuard</i>
 </p>
 
@@ -61,7 +61,7 @@ We thank our faculty mentor, **Dr. Nishanth N**, Department of Electronics and C
 ### Images
 
 <p align="center">
-<img src="/assets/images/pneumoguard/cover.png" width="800"><br/>
+<img src="/assets/images/pnemoguard/cover.png" width="800"><br/>
 <i>PneumoGuard</i>
 </p>
 
