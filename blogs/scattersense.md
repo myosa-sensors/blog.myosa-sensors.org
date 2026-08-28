@@ -1,16 +1,21 @@
-<div align="center">
-
-# ScatterSense-LoRAB
-
-### Turning the MYOSA Board into an Ambient FM Backscatter RFID Tag
-
-**Submission Date:** August 25, 2026
-
-*Ultra-low-power, transmitter-free wireless sensing, powered entirely by ambient FM radio.*
-
-</div>
-
 ---
+publishDate: 2026-08-25
+
+title: ScatterSense-LoRAB
+
+excerpt: Turning the MYOSA Board into an Ambient FM Backscatter RFID Tag.
+
+image: scattersense/lorab-architecture.png
+
+tags:
+  - MYOSA
+  - RFID
+  - Backscatter
+  - Wireless
+  - LowPower
+---
+
+> Ultra-low-power, transmitter-free wireless sensing, powered entirely by ambient FM radio.
 
 ## Team
 
@@ -67,37 +72,35 @@ Because the backscattered data rides on top of an existing ambient FM carrier ra
 ### Images
 
 <p align="center">
-  <img src="Figures/lorab-architecture.png" width="500"><br/>
+  <img src="/assets/images/scattersense/lorab-architecture.png" width="500"><br/>
   <sub><i>LoRAB system architecture: ambient FM stations excite the MYOSA tag, which backscatters I<sup>2</sup>S-generated CSS chirps to an Airspy SDR + GNU Radio receiver.</i></sub>
 </p>
 
 <p align="center">
-  <img src="Figures/tag-real-life.jpg" width="500"><br/>
+  <img src="/assets/images/scattersense/tag-real-life.jpg" width="500"><br/>
   <sub><i>Real-life tag deployment: the MYOSA-class board with RF switch and copper-wire dipole mounted at a window.</i></sub>
 </p>
 
 <p align="center">
-  <img src="Figures/digital-chirp.png" width="500"><br/>
+  <img src="/assets/images/scattersense/digital-chirp.png" width="500"><br/>
   <sub><i>Backscatter modulation principle. Left: two reflection-coefficient states on the Smith chart. Right: the ideal analog chirp vs the implemented digital square-wave chirp sampled by I<sup>2</sup>S.</i></sub>
 </p>
 
 <p align="center">
-  <img src="Figures/css-frame-spectrum.png" width="500"><br/>
+  <img src="/assets/images/scattersense/css-frame-spectrum.png" width="500"><br/>
   <sub><i>Spectrogram of a received CSS frame showing preamble down-chirps, preamble up-chirps, and payload chirps.</i></sub>
 </p>
 
 <p align="center">
-  <img src="Figures/range-map.png" width="500"><br/>
+  <img src="/assets/images/scattersense/range-map.png" width="500"><br/>
   <sub><i>Deployment geometry. Left: tag-to-receiver link of 150 m. Right: FM emitter (Black Hill transmitting station) 34.5 km from the tag.</i></sub>
 </p>
 
 ### Videos
 
-<p align="center">
-  <img src="Video/lorab-myosa-demo.gif" width="500">
-</p>
-
-> A high-quality MP4 version with the sound of FM music is available at [`Video/lorab-myosa-demo.mp4`](Video/lorab-myosa-demo.mp4).
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/yPETskdM1TQ"></iframe>
+</div>
 
 ---
 
