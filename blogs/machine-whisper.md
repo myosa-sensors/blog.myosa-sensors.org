@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: MachineWhisper — Catching Machine Faults Before They Become Breakdowns
 excerpt: An industrial predictive maintenance system using ESP32, Edge AI (TinyML), and Flutter to analyze vibration frequencies and detect machine faults in real-time.
-image: hardware-photo.jpg
+image: machinewhisper/hardware-photo.jpg
 tags:
   - predictive-maintenance
   - esp32
@@ -53,36 +53,36 @@ We gratefully acknowledge the guidance and support provided by our faculty mento
 ### **Images**
 
 <p align="center">
-<img src="hardware-photo.jpg" width="800"><br/>
+<img src="/assets/images/machinewhisper/hardware-photo.jpg" width="800"><br/>
 <i>The MachineWhisper hardware connected to the DC motor</i>
 </p>
 
 <p align="center">
-<img src="login-page.jpg" width="800"><br/>
+<img src="/assets/images/machinewhisper/login-page.jpg" width="800"><br/>
 <i>Cross-platform web and Android login interface</i>
 </p>
 
 <p align="center">
-<img src="dashboard.png" width="800"><br/>
+<img src="/assets/images/machinewhisper/dashboard.png" width="800"><br/>
 <i>The real-time dashboard showing live telemetry and anomaly alerts</i>
 </p>
 
 <p align="center">
-<img src="notification-warning.png" width="800"><br/>
+<img src="/assets/images/machinewhisper/notification-warning.png" width="800"><br/>
 <i>Instant push notification warnings triggered during a severe anomaly</i>
 </p>
 
 ### **Videos**
 
 **Live Project Demo:**
-<video controls width="100%">
-<source src="project-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/vxE1KG6SXIM"></iframe>
+</div>
 
 **PPT Presentation Overview:**
-<video controls width="100%">
-<source src="ppt-presentation.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/VyNl77OjDQM"></iframe>
+</div>
 
 ---
 
