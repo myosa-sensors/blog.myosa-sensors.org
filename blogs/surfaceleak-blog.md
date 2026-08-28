@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: SurfaceLeak — Non-Invasive Subsurface Pipe Leak Detector
 excerpt: A surface-mounted MYOSA sensor node that detects underground pipe leaks using multi-modal physical sensing — no excavation, no pipe access, no expertise required.
-image: /assets/images/hydronova/1.png
+image: hydronova/1.png
 tags:
   - IoT
   - Sensor Fusion
@@ -60,7 +60,7 @@ LPS = (0.55 × proximity_dev) + (0.45 × vibration_dev)[cite: 4, 5]
 </p>
 
 <p align="center">
-  <img src="/assets/images/hydronova/3.jpg" width="800"><br/>
+  <img src="/assets/images/hydronova/3.pmg" width="800"><br/>
   <i>Prototype demonstration rig — sensor stack above a buried leaking pipe</i>[cite: 4, 5]
 </p>
 
