@@ -5,14 +5,13 @@ title: LogiShield - Offline Package Tamper Monitoring System
 
 excerpt: Our project aims to resolve the problem of tampering before accepting the delivery package. 
 
-image: coverpicture.png
+image: logishieldcoverpicture.png
 
 tags:
   - Delivery
   - Customer Satisfaction
   - Package
   - Tamper
-
 ---
 
 > Dont doubt, just get your package checked before opening! 
@@ -58,35 +57,35 @@ LogiShield turns the parcel into a smart, self-monitoring system that can check 
 ### **Images**
 
 <p align="center">
-  <img src="./demo_pictures_videos/module_image.jpeg" width="800"><br/>
+  <img src="/assets/images/logishield/demo_pictures_videos/module_image.jpeg" width="800"><br/>
   <i>The hardware build for LogiShield</i>
 </p>
 
 
 
 <p align="center">
-  <img src="./demo_pictures_videos/oled_image.png" width="800"><br/>
+  <img src="/assets/images/logishield/demo_pictures_videos/oled_image.png" width="800"><br/>
   <i>OLED showing live parameters and tamper count</i>
 </p>
 
 
 <p align="center">
-  <img src="./demo_pictures_videos/qr_code_image.jpeg" width="800"><br/>
+  <img src="/assets/images/logishield/demo_pictures_videos/qr_code_image.jpeg" width="800"><br/>
   <i>QR_Code generation in OLED containing tampering data</i>
 </p>
 
 
 <p align="center">
-  <img src="./demo_pictures_videos/dashboard.jpeg" width="800"><br/>
+  <img src="/assets/images/logishield/demo_pictures_videos/dashboard.jpeg" width="800"><br/>
   <i>Tampering analysis in dedicated web application in a Dashboard format</i>
 </p>
 
 
 ### **Videos**
 
-<video controls width="100%">
-  <source src="./demo_pictures_videos/demo_video.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/1zCb5AcI4Iw"></iframe>
+</div>
 
 
 ---
