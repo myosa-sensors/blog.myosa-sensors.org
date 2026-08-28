@@ -14,9 +14,7 @@ tags:
   - Tamper
 ---
 
-> Dont doubt, just get your package checked before opening! 
-
----
+> Dont doubt, just get your package checked before opening!
 
 
 ## Acknowledgements
