@@ -2,7 +2,7 @@
 publishDate: 2026-08-24T00:00:00Z
 title: "DHRUV: Last-Mile Vaccine Cold Chain Monitoring System with Firebase IoT"
 excerpt: "An IoT sensor-fusion node built on MYOSA with Firebase Realtime Cloud Sync to prevent vaccine degradation during rural last-mile transport."
-image: dhruv-cover.jpg
+image: dhruv-myosa-coldchain/dhruv-cover.jpg
 tags:
   - Cold Chain Monitoring
   - MYOSA 6.0
@@ -67,9 +67,9 @@ According to the World Health Organization (WHO), **up to 50% of vaccines are wa
 
 ### **Videos**
 
-<video controls width="100%">
-  <source src="/dhruv-demonstration-video.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/9y0lkcgLg0w"></iframe>
+</div>
 
 ---
 
