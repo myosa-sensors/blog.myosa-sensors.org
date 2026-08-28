@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: Persona - Predictive Parkinson Motor Response Quantification & Medication Timing Optimization Platform
 excerpt: A wearable ESP32 device that tracks tremor and muscle activity to monitor Parkinson's motor symptoms, reminds patients to take medication, and measures how their tremor responds after each dose.
-image: docs/image.jpg
+image: irrigation/image.jpg
 tags:
 - ESP32
 - Healthcare
@@ -53,13 +53,15 @@ All of this is also exposed live over a self-hosted WiFi dashboard, so a caregiv
 ### Images
 
 <p align="center">
-  <img src="/docs/image.jpg" width="800"><br/>
+  <img src="/assets/images/irrigation/image.jpg" width="800"><br/>
   <i>MYOSA sensor boards (OLED, BMP180, APDS9960) wired to the ESP32 main board</i>
 </p>
 
 ### Videos
 
-<a href="./docs/video.mp4"> ▶ Play video</a>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/0Gi64FjdrsA"></iframe>
+</div>
 
 ---
 
