@@ -6,13 +6,7 @@ title: IntelliMap – Portable Indoor Environmental Assessment and Mapping Syste
 
 excerpt: IntelliMap is a portable ESP32-based system for assessing indoor environmental conditions across different rooms and building levels. It combines temperature, pressure, ambient-light and motion sensing with room labeling, comfort scoring, anomaly detection, Blynk IoT, Bluetooth Low Energy and offline data storage.
 
-<p align="center">
-
-<img src="intellimap-cover.jpg" width="300" height="50"><br/>
-
-
-
-</p>
+image: intellimap/intellimap-cover.jpeg
 
 tags:
 
@@ -95,7 +89,7 @@ The resulting information can support **building energy assessments, indoor envi
 
 <p align="center">
 
-<img src="intellimap-cover.jpeg" width="800"><br/>
+<img src="/assets/images/intellimap/intellimap-cover.jpeg" width="800"><br/>
 
 <i>IntelliMap portable indoor environmental assessment system.</i>
 
@@ -103,7 +97,7 @@ The resulting information can support **building energy assessments, indoor envi
 
 <p align="center">
 
-<img src="intellimap-hardware.jpeg" width="800"><br/>
+<img src="/assets/images/intellimapintellimap-hardware.jpeg" width="800"><br/>
 
 <i>ESP32, sensors and OLED display used in the IntelliMap prototype.</i>
 
@@ -111,7 +105,7 @@ The resulting information can support **building energy assessments, indoor envi
 
 <p align="center">
 
-<img src="intellimap-oled.jpeg" width="800"><br/>
+<img src="/assets/images/intellimapintellimap-oled.jpeg" width="800"><br/>
 
 <i>IntelliMap OLED interface displaying system and environmental information.</i>
 
@@ -119,7 +113,7 @@ The resulting information can support **building energy assessments, indoor envi
 
 <p align="center">
 
-<img src="intellimap-blynk.jpeg" width="800"><br/>
+<img src="/assets/images/intellimapintellimap-blynk.jpeg" width="800"><br/>
 
 <i>Blynk IoT dashboard displaying IntelliMap data.</i>
 
@@ -127,7 +121,7 @@ The resulting information can support **building energy assessments, indoor envi
 
 <p align="center">
 
-<img src="intellimap-testing.jpeg" width="800"><br/>
+<img src="/assets/images/intellimapintellimap-testing.jpeg" width="800"><br/>
 
 <i>IntelliMap during indoor environmental data collection.</i>
 
@@ -137,11 +131,9 @@ The resulting information can support **building energy assessments, indoor envi
 
 The demonstration video 
 
-<video controls width="100%">
-
-  <source src="intellimap-demo.mp4" type="video/mp4">
-
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/FfHxm_etWEU"></iframe>
+</div>
 
 
 
