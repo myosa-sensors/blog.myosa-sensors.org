@@ -1,6 +1,5 @@
 ---
-
-publishDate: 2026-08-25T00:00:00Z
+publishDate: 2026-08-25
 
 title: IntelliMap – Portable Indoor Environmental Assessment and Mapping System
 
@@ -9,18 +8,14 @@ excerpt: IntelliMap is a portable ESP32-based system for assessing indoor enviro
 image: intellimap/intellimap-cover.jpeg
 
 tags:
-
-* iot
-* esp32
-* energy-efficiency
-* hvac
-* indoor-environment
-* environmental-monitoring
-* blynk
-* bluetooth
-
-
-
+  - iot
+  - esp32
+  - energy-efficiency
+  - hvac
+  - indoor-environment
+  - environmental-monitoring
+  - blynk
+  - bluetooth
 ---
 
 > A portable IoT system that transforms room-by-room environmental measurements into actionable building insights.
