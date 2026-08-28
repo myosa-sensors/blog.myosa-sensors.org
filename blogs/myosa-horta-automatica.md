@@ -2,7 +2,7 @@
 publishDate: 2026-08-24 T00:00:00Z
 title: Automated Irrigation System for a Community Garden using Myosa Systems
 excerpt: An automated irrigation system for a community garden at Escola do Bairro in Sarandi, Paraná, using the Myosa platform to combine environmental sensing, automation, and STEM education.
-image: cover.jpeg
+image: irrigation/cover.jpeg
 tags:
   - Automated Irrigation System
   - Myosa IoT Mini Kit
@@ -10,7 +10,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="cover.jpeg" width="800"><br/>
+  <img src="/assets/images/irrigation/cover.jpeg" width="800"><br/>
   <i>Automated irrigation system developed for the community garden at Escola do Bairro.</i>
 </p>
 
@@ -47,25 +47,25 @@ The following images show the development, assembly, and operation of the automa
 
 <!-- IMAGE 1: COVER / COMPLETE SYSTEM -->
 <p align="center">
-  <img src="cover.jpeg" width="800"><br/>
+  <img src="/assets/images/irrigation/cover.jpeg" width="800"><br/>
   <i>Complete automated irrigation system developed using the Myosa platform.</i>
 </p>
 
 <!-- IMAGE 2: HARDWARE -->
 <p align="center">
-  <img src="System-acionamento.jpeg" width="800"><br/>
+  <img src="/assets/images/irrigation/System-acionamento.jpeg" width="800"><br/>
   <i>Solenoid Valve Control Systemt.</i>
 </p>
 
 <!-- IMAGE 3: SENSOR SYSTEM -->
 <p align="center">
-  <img src="Sensors.jpeg" width="800"><br/>
+  <img src="/assets/images/irrigation/Sensors.jpeg" width="800"><br/>
   <i>Sensors used for environmental monitoring and irrigation control.</i>
 </p>
 
 <!-- IMAGE 4: Block Diagram -->
 <p align="center">
-  <img src="Block-Diagram2.png" width="800"><br/>
+  <img src="/assets/images/irrigation/Block-Diagram2.png" width="800"><br/>
   <i>System Block Diagram.</i>
 </p>
 
@@ -73,10 +73,9 @@ The following images show the development, assembly, and operation of the automa
 
 ### Videos
 
-The project demonstration video is provided as a local MP4 file, following the MYOSA submission requirements.
-
-https://github.com/user-attachments/assets/5b8ea8f3-b0c4-4a1d-9f9d-8bfeb1d502ad
-
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/VTtwa1HrSvE"></iframe>
+</div>
 ---
 
 ## Features (Detailed)
