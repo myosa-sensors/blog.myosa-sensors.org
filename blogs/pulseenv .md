@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: PULSEENV - Simultaneous Human Physiological and Environmental Stress Co-Monitoring Using MYOSA Mini IoT Kit
 excerpt: We built a real-time stress monitoring system that simultaneously tracks human physiology and environment using only the MYOSA Mini Kit. It detects the exact moment a bad environment starts affecting the human body inside it.
-image: cover-image.jpg
+image: pulsenv6/cover-image.jpg
 tags:
   - IoT
   - HealthMonitoring
@@ -34,7 +34,7 @@ That gap is what PULSEENV fills.
 ## What We Built
 
 <p align="center">
-  <img src="cover-image.jpg" width="100%" alt="PULSEENV cap-mounted wearable alongside the live stress dashboard">
+  <img src="/assets/images/pulseenv6/cover-image.jpg" width="100%" alt="PULSEENV cap-mounted wearable alongside the live stress dashboard">
   <br/>
   <i>PULSEENV field-tested: the sensor-mounted cap and the live dashboard, side by side.</i>
 </p>
@@ -78,7 +78,7 @@ Combining all three: when the environment gets hot (BMP180 temperature rises) an
 ## From Desk to Head: The MYOSA 6.0 Redesign
 
 <p align="center">
-  <img src="working.jpg" width="100%" alt="PULSEENV mounted on a cap, field-tested outdoors">
+  <img src="/assets/images/pulseenv6/working.jpg" width="100%" alt="PULSEENV mounted on a cap, field-tested outdoors">
   <br/>
   <i>PULSEENV moved off the bench and onto a cap — a form factor a factory or site worker would actually wear.</i>
 </p>
@@ -92,7 +92,7 @@ We field-tested it outdoors, running the same live dashboard over the ESP32's ow
 ## The Circuit — A Heart Shape
 
 <p align="center">
-  <img src="circuit.jpg" width="100%" alt="PULSEENV circuit arranged in a heart shape">
+  <img src="/assets/images/pulseenv6/circuit.jpg" width="100%" alt="PULSEENV circuit arranged in a heart shape">
   <br/>
   <i>We arranged the circuit in a heart shape intentionally — reflecting the system's focus on human health at its core.</i>
 </p>
@@ -142,7 +142,7 @@ Light gets 5% — visual stress matters but less than the others.
 ## The OLED Display — Live Feedback
 
 <p align="center">
-  <img src="oled.jpg" width="100%" alt="OLED showing live SCI readings and sensor values">
+  <img src="/assets/images/pulseenv6/oled.jpg" width="100%" alt="OLED showing live SCI readings and sensor values">
   <br/>
   <i>OLED showing 5 rows of live data. SCI goes red when stress spikes.</i>
 </p>
@@ -178,7 +178,9 @@ Then open: `http://192.168.4.1`
 
 ## Live Demo — What We Show
 
-🎥 [Watch the full demo](./demo.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/chr9IqD---E"></iframe>
+</div>
 
 **Baseline phase**
 Subject wears PULSEENV and walks normally. System calibrates to their personal resting baseline. Dashboard avatar walks calmly, SCI reads NORMAL, status indicator blue.
