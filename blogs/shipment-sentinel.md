@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: Shipment Sentinel — A Multi-Sensor Tamper-Evident Logger for Shipping & Asset Integrity Monitoring
 excerpt: A device built on the MYOSA kit that stays fully offline for the entire journey, logging every shock, drop, tamper, and pressure event a shipment experiences in transit, then hands over a tamper-evident, cryptographically verifiable record once it reaches the receiver.
-image: shipment-sentinel/cover-image.png
+image: shipment_sentinel/cover-image.png
 tags:
 - iot
 - logistics
@@ -61,37 +61,37 @@ The device features a sealed enclosure designed to protect internal hardware dur
 
 
 <p align="center">
-<img src="components.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/components.jpeg" width="800"><br/>
 <i>System prototyping stage showing the MYOSA core board connected to the multi-sensor stack, external power bank, and SPI microSD logging module.</i>
 </p>
 
 <p align="center">
-<img src="enclosure.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/enclosure.jpeg" width="800"><br/>
 <i>Internal hardware assembly showcasing the MYOSA ESP32 motherboard, stackable sensor module stack, microSD logger, and high-capacity 21700 Li-ion battery.</i>
 </p>
 
 <p align="center">
-<img src="final-structure.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/final-structure.jpeg" width="800"><br/>
 <i>The final sealed enclosure houses the full sensing stack in a tamper-resistant unit. A precise top aperture leaves the APDS9960 ambient light sensor exposed to detect unauthorized box openings, while an externally accessible push-button allows the recipient to initiate the 2-second hold sequence to activate the onboard WiFi access point for data extraction.</i>
 </p>
 
 <p align="center">
-<img src="front-end.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/front-end.jpeg" width="800"><br/>
 <i>Shipment Sentinel desktop ingestion utility displaying the cryptographic chain-of-custody audit log, complete with itemized event timestamps, telemetry metrics, and rolling SHA-256 block hashes.</i>
 </p>
 
 <p align="center">
-<img src="time-graph.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/time-graph.jpeg" width="800"><br/>
 <i>Shipment Sentinel desktop app displaying real-time telemetry waveforms, Integrity Score breakdown, and verified SHA-256 hash-chain audit log.</i>
 </p>
 
 <p align="center">
-<img src="coc-transit-certificate.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/coc-transit-certificate.jpeg" width="800"><br/>
 <i>Auto-generated Chain-of-Custody Transit Certificate featuring cryptographic verification status, trip passport metadata, incident excursion summary, and printable audit trail.</i>
 </p>
 
 <p align="center">
-<img src="oled.jpeg" width="800"><br/>
+<img src="/assets/images/shipment_sentinel/oled.jpeg" width="800"><br/>
 <i>0.96-inch OLED display module used during prototyping and testing to display real-time trip summaries, incident counts, and live integrity scores.</i>
 </p>
 
@@ -100,19 +100,14 @@ The device features a sealed enclosure designed to protect internal hardware dur
 
 #### 1. Project Explanation Video
 
-<video controls width="100%">
-  <source src="shipment-sentinel-explanation.mp4" type="video/mp4">
-</video>
-
-[▶ Click here to watch the Project Explanation Video](https://github.com/SajidSKS/shipment-sentinel/raw/main/shipment-sentinel-explanation.mp4)
-
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/nPm7og7TdKY"></iframe>
+</div>
 #### 2. Live Demonstration Video
 
-<video controls width="100%">
-  <source src="shipment-sentinel-demo.mp4" type="video/mp4">
-</video>
-
-[▶ Click here to watch the Live Demonstration Video](https://github.com/SajidSKS/shipment-sentinel/raw/main/shipment-sentinel-demo.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/XWZP4Hk6aoM"></iframe>
+</div>
 
 ---
 
