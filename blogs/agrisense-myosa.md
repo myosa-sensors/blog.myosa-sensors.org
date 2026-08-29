@@ -1,163 +1,137 @@
-<h1> Title: AgriSense: Offline Edge-AI Maize Health Monitor </h1>
-<h3> Excerpt: AgriSense is a low-cost ESP32 and MYOSA-based system that monitors maize conditions offline, identifies early stress indicators, and provides farmer-friendly alerts through an OLED display, buzzer, and local web dashboard. </h3>
-image: agrisense-cover.jpg
+---
+publishDate: 2026-08-25
+
+title: AgriSense: Offline Edge-AI Maize Health Monitor
+
+excerpt: AgriSense is a low-cost ESP32 and MYOSA-based system that monitors maize conditions offline, identifies early stress indicators, and provides farmer-friendly alerts through an OLED display, buzzer, and local web dashboard.
+
+image: agrisense/agrisense-cover.jpg
+
 tags:
-- agriculture
-- esp32
-- tinyml
-- iot
-- maize
+  - agriculture
+  - esp32
+  - tinyml
+  - iot
+  - maize
+---
 
-An offline edge-AI companion that helps maize farmers notice early crop stress, heat exposure, and unusual plant movement.
+> An offline edge-AI companion that helps maize farmers notice early crop stress, heat exposure, and unusual plant movement.
 
-Acknowledgements
+---
+
+## Acknowledgements
+
 This project was developed for the MYOSA project challenge. It combines MYOSA-compatible hardware, ESP32 embedded programming, real maize-plant testing, and a locally deployed machine-learning model.
 
-Overview
+## Overview
+
 Small-scale maize farmers often identify crop stress only after visible wilting, heat damage, or physical disturbance has already progressed. Internet-dependent agricultural systems can also be difficult to use in locations with unreliable connectivity.
 
 AgriSense is an offline maize-monitoring prototype built around an ESP32 and MYOSA sensor modules. It reads temperature, pressure, ambient light, proximity, and plant-support movement. A 15-tree Random Forest model runs directly on the ESP32 to classify plant condition as healthy, moderately stressed, or highly stressed.
 
-The system creates its own Wi-Fi network, so a farmer can connect a phone directly to the device and view a local dashboard at http://192.168.4.1 without Internet access.
+The system creates its own Wi-Fi network, so a farmer can connect a phone directly to the device and view a local dashboard at `http://192.168.4.1` without Internet access.
 
-Key features:
+**Key features:**
+* Offline ESP32 Wi-Fi dashboard for farmer access
+* On-device 15-tree Random Forest inference
+* Maize health status: healthy, moderately stressed, highly stressed, and heat stress
+* Farmer-friendly likely-cause suggestions
+* OLED status display for local field visibility
+* Buzzer alerts for urgent conditions
+* CSV dataset collection for future model improvement
+* Real maize-plant field-test design
 
-Offline ESP32 Wi-Fi dashboard for farmer access
+## Demo / Examples
 
-On-device 15-tree Random Forest inference
+### Images
 
-Maize health status: healthy, moderately stressed, highly stressed, and heat stress
-
-Farmer-friendly likely-cause suggestions
-
-OLED status display for local field visibility
-
-Buzzer alerts for urgent conditions
-
-CSV dataset collection for future model improvement
-
-Real maize-plant field-test design
-
-Demo / Examples
-Images
 <p align="center">
-<img src="agrisense-cover.jpg" width="800">
-
-<i>AgriSense installed beside a maize plant for local condition monitoring.</i>
+  <img src="/assets/images/agrisense/agrisense-cover.jpg" width="800"><br/>
+  <i>AgriSense installed beside a maize plant for local condition monitoring.</i>
 </p>
 
 <p align="center">
-<img src="agrisense-hardware.jpg" width="800">
-
-<i>ESP32/MYOSA hardware, sensors, OLED display, and buzzer integration.</i>
+  <img src="/assets/images/agrisense/agrisense-hardware.jpg" width="800"><br/>
+  <i>ESP32/MYOSA hardware, sensors, OLED display, and buzzer integration.</i>
 </p>
 
 <p align="center">
-<img src="agrisense-dashboard.jpg" width="800">
-
-<i>Offline farmer dashboard showing plant condition, sensor readings, and likely causes.</i>
+  <img src="/assets/images/agrisense/agrisense-dashboard.jpg" width="800"><br/>
+  <i>Offline farmer dashboard showing plant condition, sensor readings, and likely causes.</i>
 </p>
 
-Videos
-<video controls width="100%">
-<source src="agrisense-demo.mp4" type="video/mp4">
-</video>
+#### Demo Video
 
-## Demo Video
-
-[▶ View or download the AgriSense field-deployment demo](agrisense-demo.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/fLgiOFNOGfs"></iframe>
+</div>
 
 The video shows the deployed MYOSA sensor modules, the ESP32 controller, maize field setup, and dashboard output.
 
-Features (Detailed)
-1. Offline Farmer Dashboard
-The ESP32 creates a private Wi-Fi access point called AgriSense-ESP32. A farmer connects a phone or laptop directly to the device and opens the local dashboard without requiring mobile data or Internet access.
+## Features (Detailed)
+
+### 1. Offline Farmer Dashboard
+The ESP32 creates a private Wi-Fi access point called `AgriSense-ESP32`. A farmer connects a phone or laptop directly to the device and opens the local dashboard without requiring mobile data or Internet access.
 
 The dashboard presents:
+* Current crop health classification
+* AI confidence level
+* Temperature, light, pressure, and movement values
+* Heat-stress warnings
+* Likely causes of unusual readings
+* OLED and buzzer status
+* CSV session recording and download tools
 
-Current crop health classification
-
-AI confidence level
-
-Temperature, light, pressure, and movement values
-
-Heat-stress warnings
-
-Likely causes of unusual readings
-
-OLED and buzzer status
-
-CSV session recording and download tools
-
-2. On-Device TinyML Inference
+### 2. On-Device TinyML Inference
 AgriSense uses a 15-tree Random Forest model embedded in the ESP32 firmware. The model receives four features:
-
-Ambient temperature in °C
-
-Light intensity
-
-Atmospheric pressure in hPa
-
-Acceleration deviation from gravity
+* Ambient temperature in °C
+* Light intensity
+* Atmospheric pressure in hPa
+* Acceleration deviation from gravity
 
 The model estimates crop condition as:
-
-Healthy Plant
-
-Moderately Stressed
-
-Highly Stressed
+* Healthy Plant
+* Moderately Stressed
+* Highly Stressed
 
 The inference runs directly on the ESP32, allowing low-latency decisions without cloud processing.
 
-3. Heat-Stress Alert
+### 3. Heat-Stress Alert
 AgriSense displays a dedicated Heat Stress state when temperature reaches 36°C or above. The dashboard shows an orange heat warning and advises the farmer to inspect shade and water availability.
 
-4. Movement and Disturbance Indicator
+### 4. Movement and Disturbance Indicator
 The MPU6050 measures support-stake or stem movement. The software calculates acceleration deviation from normal gravity rather than using raw acceleration magnitude.
 
 Depending on movement level, the dashboard can suggest possible causes such as:
-
-Light movement: wind or a small insect landing
-
-Moderate movement: wind or small animal activity
-
-Strong movement: rodent, bird, or larger animal disturbance
+* Light movement: wind or a small insect landing
+* Moderate movement: wind or small animal activity
+* Strong movement: rodent, bird, or larger animal disturbance
 
 These messages are early-warning indicators and should be confirmed through farmer inspection.
 
-5. OLED and Buzzer Alerts
+### 5. OLED and Buzzer Alerts
 The OLED provides a fast local status message:
-
-HEALTHY
-
-STRESSED
-
-HEAT
-
-CRITICAL
+* HEALTHY
+* STRESSED
+* HEAT
+* CRITICAL
 
 The buzzer remains silent during healthy conditions, beeps intermittently during moderate or heat stress, and activates continuously during highly stressed conditions.
 
-6. Dataset Collection
+### 6. Dataset Collection
 The dashboard includes a controlled data-collection mode. The user can assign a plant ID, day, session time, and condition label, then export recorded sensor readings to CSV for future retraining.
 
-Usage Instructions
-Upload the AgriSense firmware to the ESP32 using Arduino IDE.
+## Usage Instructions
 
-Keep agrisense_model.h in the same Arduino sketch folder as the .ino file.
+1. Upload the AgriSense firmware to the ESP32 using Arduino IDE.
+2. Keep `agrisense_model.h` in the same Arduino sketch folder as the `.ino` file.
+3. Power the ESP32.
+4. Connect a phone or laptop to:
+   ```text
+   Wi-Fi name: AgriSense-ESP32
+   Password: 123456789
+Open the dashboard at http://192.168.4.1
 
-Power the ESP32.
-
-Connect a phone or laptop to:
-
-text
-Wi-Fi name: AgriSense-ESP32
-Password: 123456789
-Open the dashboard:
-
-text
-http://192.168.4.1
 View live crop condition, readings, and likely-cause messages.
 
 For dataset collection, open the Advanced section, create a session, start recording, stop recording, and download the CSV file.
@@ -186,7 +160,7 @@ GitHub for version control and code submission
 Requirements / Installation
 Install the following libraries in Arduino IDE:
 
-text
+Plaintext
 Adafruit BMP085 Library
 Adafruit GFX Library
 Adafruit SSD1306
@@ -194,11 +168,11 @@ Use an ESP32 board package in Arduino IDE.
 
 Project files required:
 
-text
+Plaintext
 agri_sense.ino
 agrisense_model.h
 File Structure
-text
+Plaintext
 agri_sense/
 ├── agri_sense.ino
 ├── agrisense_model.h
