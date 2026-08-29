@@ -1,10 +1,8 @@
 ---
 publishDate: 2026-08-25
-
 title: DriveGuard — Intelligent Driver Safety Monitoring & Warning System for Hazardous Road Conditions
-
 excerpt: A low-cost, multi-sensor driver-assistance system designed to improve road safety in hazardous driving environments using environmental sensing, vehicle-dynamics monitoring, and obstacle detection.
-
+images: voicegest/DRIVEGUARD.jpg
 tags:
   - DriveGuard
   - Automotive
@@ -585,16 +583,9 @@ It should not be considered a certified automotive safety system. All hardware, 
 # 👥 Project
 
 
-
-https://github.com/user-attachments/assets/e8352895-28c3-4eb3-92e0-553f241ed4dc<img width="1600" height="900" alt="WhatsApp Image 2026-08-25 at 9 50 50 PM" src="https://github.com/user-attachments/assets/d5219e91-e747-4165-a447-387d9f40a9c6" />
-
-
-
-
-
-
-
-
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/YBrtqiCCvPg"></iframe>
+</div>
 
 
 **DriveGuard**
