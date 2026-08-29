@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: "TU Ankaja: Electronic Noise Powered and MYOSA-integrated Sensor Based Random Number Generator"
 excerpt: "A multi-sensor hardware entropy collector built on the ESP32-based MYOSA Motherboard and MYOSA sensor modules, paired with an external MOSFET noise circuit, feeding a Rust cryptographic engine over MQTT to produce NIST-validated true random numbers."
-image: /assets/images/tu-ankaja/cover.jpg
+image: tu-ankaja/cover.jpg
 tags:
   - IoT
   - Rust
@@ -135,9 +135,9 @@ The pipeline has four stages:
 
 ### Videos
 
-<video controls width="100%">
-  <source src="/myosa-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/aMLzxkUSIB0"></iframe>
+</div>
 
 <p align="center"><i>Full demonstration — chaotic box in operation, live MQTT sensor stream, and hardware-backed OTP generation on the dashboard</i></p>
 
