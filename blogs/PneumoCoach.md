@@ -1,14 +1,17 @@
-# PneumoCoach — Edge-AI Breathing Technique Coach
-
-<p align="center">
-  <img src="pneumocoach/pneumocoach-cover.png" width="720"><br/>
-  <em>Wearable sternal capsule (37 × 37 × 15.5 mm) built on the MYOSA platform. A single IMU on the chest, an 8-bit neural network on the ESP32, and no cloud.</em>
-</p>
-
-> Breathing retraining is standard care in pulmonary rehabilitation — but the moment the patient goes home, nobody is watching. **PneumoCoach is that missing mirror.**
-
+---
+publishDate: 2026-08-25
+title: PneumoCoach — Edge-AI Breathing Technique Coach
+excerpt: Wearable sternal capsule (37 × 37 × 15.5 mm) built on the MYOSA platform. A single IMU on the chest, an 8-bit neural network on the ESP32, and no cloud.
+image: pneumocoach/pneumocoach-cover.png
+tags:
+  - MYOSA
+  - ESP32
+  - Edge-AI
+  - Wearable
+  - Healthcare
 ---
 
+> Breathing retraining is standard care in pulmonary rehabilitation — but the moment the patient goes home, nobody is watching. **PneumoCoach is that missing mirror.**
 ## 🎯 Overview
 
 Pulmonary rehabilitation teaches patients with COPD and asthma to breathe **diaphragmatically** — abdomen expanding, upper chest still, long pursed-lip exhale. The technique is taught in clinic, then practised at home, unsupervised. Technique drift is common and the patient has no way to notice it.
@@ -35,17 +38,17 @@ The original design rested on a mechanical hypothesis that we **falsified with o
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="pneumocoach/pneumocoach-architecture.png" width="720"><br/>
+  <img src="/assets/images/pneumocoach/pneumocoach-architecture.png" width="720"><br/>
   <em>Complete signal chain — sensor to verdict, entirely on-device.</em>
 </p>
 
 <p align="center">
-  <img src="pneumocoach/pneumocoach-sensor-placement.png" width="720"><br/>
+  <img src="/assets/images/pneumocoach/pneumocoach-sensor-placement.png" width="720"><br/>
   <em>Placement: 35 mm below the jugular notch, over the manubrium.</em>
 </p>
 
 <p align="center">
-  <img src="pneumocoach/pneumocoach-resultado-real.png" width="720"><br/>
+  <img src="/assets/images/pneumocoach/pneumocoach-resultado-real.png" width="720"><br/>
   <em>Binary accuracy on a real chest: 0.750 (p = 4.3 × 10⁻⁶), validated across four sessions with leave-one-protocol-group-out.</em>
 </p>
 
@@ -58,31 +61,31 @@ The original design rested on a mechanical hypothesis that we **falsified with o
 Custom 3D-printable enclosure designed in Autodesk Inventor, optimized for the MYOSA board form factor.
 
 <p align="center">
-  <img src="pneumocoach/enclosure-hero.png" width="720"><br/>
+  <img src="/assets/images/pneumocoach/enclosure-hero.png" width="720"><br/>
   <em>Hero view — complete enclosure assembly with lid.</em>
 </p>
 
 <p align="center">
-  <img src="pneumocoach/enclosure-exploded.png" width="720"><br/>
+  <img src="/assets/images/pneumocoach/enclosure-exploded.png" width="720"><br/>
   <em>Exploded view — box, lid, and internal layout for the MYOSA board.</em>
 </p>
 
 <table>
   <tr>
-    <td align="center"><img src="pneumocoach/enclosure-box-iso.png" width="360"><br/><em>Box — isometric</em></td>
-    <td align="center"><img src="pneumocoach/enclosure-lid-iso.png" width="360"><br/><em>Lid — isometric</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-box-iso.png" width="360"><br/><em>Box — isometric</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-lid-iso.png" width="360"><br/><em>Lid — isometric</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="pneumocoach/enclosure-box-inside.png" width="360"><br/><em>Box — internal cavity</em></td>
-    <td align="center"><img src="pneumocoach/enclosure-corner.png" width="360"><br/><em>Corner detail</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-box-inside.png" width="360"><br/><em>Box — internal cavity</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-corner.png" width="360"><br/><em>Corner detail</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="pneumocoach/enclosure-box-top.png" width="360"><br/><em>Box — top view</em></td>
-    <td align="center"><img src="pneumocoach/enclosure-lid-top.png" width="360"><br/><em>Lid — top view</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-box-top.png" width="360"><br/><em>Box — top view</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-lid-top.png" width="360"><br/><em>Lid — top view</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="pneumocoach/enclosure-front.png" width="360"><br/><em>Front profile</em></td>
-    <td align="center"><img src="pneumocoach/enclosure-top.png" width="360"><br/><em>Top profile</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-front.png" width="360"><br/><em>Front profile</em></td>
+    <td align="center"><img src="/assets/images/pneumocoach/enclosure-top.png" width="360"><br/><em>Top profile</em></td>
   </tr>
 </table>
 
