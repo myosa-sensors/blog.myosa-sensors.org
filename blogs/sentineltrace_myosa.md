@@ -2,7 +2,7 @@
 publishDate: 2026-08-28
 title: SentinelTrace, Cryptographic Edge Intelligence for the Cold-Chain "Dead Zone"
 excerpt: SentinelTrace is a reusable, offline ESP32 watchdog that self-arms the moment a medical package is set down, runs on-device TinyML anomaly detection through the unattended handoff window, and hands the recipient a tamper-evident, cryptographically signed verdict before the box is opened.
-image: SentinelTrace_Myosa6.0/cover.jpg
+image: sentineltrace/cover.jpg
 tags:
   - cold-chain
   - tinyml
@@ -11,7 +11,7 @@ tags:
   - security
 ---
 <p align="center">
-  <img src="/cover.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/cover.png" width="800"><br/>
   <i>SentinelTrace - MYOSA 6.0</i>
 </p>
 
@@ -49,47 +49,47 @@ SentinelTrace is a reusable, offline watchdog built on the MYOSA ESP32 platform 
 ### Images
 
 <p align="center">
-  <img src="/circuit_diagram.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/circuit_diagram.png" width="800"><br/>
   <i>SentinelTrace circuit diagram</i>
 </p>
 
 <p align="center">
-  <img src="/enclosure_inside_connection.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/enclosure_inside_connection.png" width="800"><br/>
   <i>Inside the enclosure - sensor wiring and connections</i>
 </p>
 
 <p align="center">
-  <img src="/web_dashboard_overview.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/web_dashboard_overview.png" width="800"><br/>
   <i>Web dashboard - Overview, live unit status</i>
 </p>
 
 <p align="center">
-  <img src="/web_dashboard_device_status.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/web_dashboard_device_status.png" width="800"><br/>
   <i>Web dashboard - Unit Detail, admin controls and telemetry</i>
 </p>
 
 <p align="center">
-  <img src="/web_dashboard_device_logs.png" width="800"><br/>
+  <img src="/assets/images/sentineltrace/web_dashboard_device_logs.png" width="800"><br/>
   <i>Web dashboard - Log Review, hash-chain verified black-box log</i>
 </p>
 
 <p align="center">
-  <img src="/flutter_app_scan_screen.png" width="400"><br/>
+  <img src="/assets/images/sentineltrace/flutter_app_scan_screen.png" width="400"><br/>
   <i>Flutter app - scanning for the SentinelTrace BLE advertisement</i>
 </p>
 
 <p align="center">
-  <img src="/flutter_app_authenticating_screen.png" width="400"><br/>
+  <img src="/assets/images/sentineltrace/flutter_app_authenticating_screen.png" width="400"><br/>
   <i>Flutter app - HMAC challenge-response unlock in progress</i>
 </p>
 
 <p align="center">
-  <img src="/flutter_app_device_status.png" width="400"><br/>
+  <img src="/assets/images/sentineltrace/flutter_app_device_status.png" width="400"><br/>
   <i>Flutter app - cycle summary after unlock</i>
 </p>
 
 <p align="center">
-  <img src="/flutter_app_device_logs.png" width="400"><br/>
+  <img src="/assets/images/sentineltrace/flutter_app_device_logs.png" width="400"><br/>
   <i>Flutter app - verified black-box log timeline</i>
 </p>
 
@@ -97,11 +97,15 @@ SentinelTrace is a reusable, offline watchdog built on the MYOSA ESP32 platform 
 
 **Presentation**
 
-https://github.com/user-attachments/assets/e982ab41-c58c-411f-bdb1-5fb66e3ee40b
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/0sE_7A_Q8Yo"></iframe>
+</div>
 
 **Demonstration**
 
-https://github.com/user-attachments/assets/e28baf69-6c1d-4544-9077-9ecafeee8072
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/AGhvunoX0Cw"></iframe>
+</div>
 
 ---
 
