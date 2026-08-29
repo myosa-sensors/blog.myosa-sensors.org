@@ -5,7 +5,7 @@ title: SENTRA — Sepsis Early Non-invasive Tracking & Risk Assessment
 
 excerpt: A low-cost, non-invasive prototype that combines pulse, breathing, and mobility trends into a simple bedside early-warning score.
 
-image: sentra-cover.jpg
+image: sentra/sentra-cover.jpg
 
 tags:
   - healthcare
@@ -55,9 +55,9 @@ SENTRA is intended for demonstrations and early research into accessible bedside
 
 <!-- TODO: Add your local MP4 file. YouTube links are not accepted by MYOSA. -->
 
-<video controls width="100%">
-  <source src="/sentra-demo.mp4" type="video/mp4">
-</video>
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/puq9PpCE3MI"></iframe>
+</div>
 
 ### Live Website
 
