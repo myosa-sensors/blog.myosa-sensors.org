@@ -138,7 +138,7 @@ const blogs = [
   "blogs/intellimap (1).md",
   "blogs/sentineltrace_myosa.md",
   "blogs/tu-ankaja6.md",
-  "blogs/agrisense_myosa.md",
+  "blogs/agrisense-myosa.md",
   "blogs/myosa-crashguard.md",
    "blogs/sitx.md"
 ];
