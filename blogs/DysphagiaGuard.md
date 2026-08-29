@@ -225,7 +225,7 @@ For each of the 6 IMU channels (`ax, ay, az, gx, gy, gz`), 8 features are comput
 **🎥 Project Presentation & Testing**
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/w3NV4Ae5NGU"></iframe>
+  <iframe src="https://www.youtube.com/embed/o8iQouJBqgk"></iframe>
 </div>
 
 **🎥 Backstage / Build Process**
