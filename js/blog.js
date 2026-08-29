@@ -136,6 +136,10 @@ const blogs = [
   "blogs/ecoflame-myosa-submission-updated.md",
   "blogs/myosa_steadypoint.md",
   "blogs/intellimap (1).md",
+  "blogs/sentineltrace_myosa.md",
+  "blogs/tu-ankaja6.md",
+  "blogs/agrisense_myosa.md",
+  "blogs/myosa-crashguard.md",
    "blogs/sitx.md"
 ];
 
