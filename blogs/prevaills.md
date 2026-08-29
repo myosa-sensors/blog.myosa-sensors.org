@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: "PREVAIL-LS: Predictive Real-Time Evaluation and Vigilance for Active Landslide Slopes"
 excerpt: "A low-cost IoT-based landslide monitoring and early-warning system combining multi-sensor fusion, Wi-Fi/LoRa telemetry, and a weighted risk engine for real-time slope safety alerts."
-image: prevail/prevail-ls-demonstration.jpg
+image: prevail/demonstration.jpg
 tags:
   - IoT
   - ESP32
@@ -53,7 +53,7 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### Hardware Architecture — Node 1
 
 <p align="center">
-  <img src="/assets/images/prevailHardware-Architecture-node1.jpeg" width="800"><br/>
+  <img src="/assets/images/prevail/Hardware-Architecture-node1.jpeg" width="800"><br/>
   <i>Figure 2 — Node 1 Hardware Assembly: close-up view of the sensors (MPU6050, DHT22, BMP180, Ultrasonic), MYOSA ESP32 board, and interface circuitry mounted at the field node.</i>
 </p>
 
@@ -62,7 +62,7 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### System Demonstration & Testing
 
 <p align="center">
-  <img src="/assets/images/prevailDemonstration.jpeg" width="800"><br/>
+  <img src="/assets/images/prevail/Demonstration.jpeg" width="800"><br/>
   <i>Figure 3 — PREVAIL-LS Complete Demonstration Setup: integrated view showing the slope terrain model, active monitoring nodes, Base Station, indicator lights, and telemetry outputs.</i>
 </p>
 
@@ -71,28 +71,28 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 #### Live Cloud Dashboard (ThingSpeak)
 
 <p align="center">
-  <img src="/assets/images/prevailRiskstatus.png" width="800"><br/>
+  <img src="/assets/images/prevail/Riskstatus.png" width="800"><br/>
   <i>Figure 4 — PREVAIL-LS Risk Status and System Status widgets, alongside live Soil Moisture and Humidity readouts.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="/assets/images/prevailLivereadings.png" width="800"><br/>
+  <img src="/assets/images/prevail/Livereadings.png" width="800"><br/>
   <i>Figure 5 — Current Vibration, Current Pressure, and Current Distance indicator widgets with the Soil Moisture trend chart.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="/assets/images/prevailDashboardsensorcharts.png" width="800"><br/>
+  <img src="/assets/images/prevail/Dashboardsensorcharts.png" width="800"><br/>
   <i>Figure 6 — Field charts for Humidity, Atmospheric Pressure, Ground Vibration, and Slope Movement/Distance over time.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="/assets/images/prevailDashboardlastupdate.png" width="800"><br/>
+  <img src="/assets/images/prevail/Dashboardlastupdate.png" width="800"><br/>
   <i>Figure 7 — Last Sensor Update timestamp widget, confirming live telemetry reception from the field node.</i>
 </p>
 
