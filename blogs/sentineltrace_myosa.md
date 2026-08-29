@@ -2,7 +2,7 @@
 publishDate: 2026-08-28
 title: SentinelTrace, Cryptographic Edge Intelligence for the Cold-Chain "Dead Zone"
 excerpt: SentinelTrace is a reusable, offline ESP32 watchdog that self-arms the moment a medical package is set down, runs on-device TinyML anomaly detection through the unattended handoff window, and hands the recipient a tamper-evident, cryptographically signed verdict before the box is opened.
-image: sentineltrace/cover.jpg
+image: sentineltrace/cover.png
 tags:
   - cold-chain
   - tinyml
