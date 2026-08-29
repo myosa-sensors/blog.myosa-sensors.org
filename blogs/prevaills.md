@@ -2,7 +2,7 @@
 publishDate: 2026-08-25T00:00:00Z
 title: "PREVAIL-LS: Predictive Real-Time Evaluation and Vigilance for Active Landslide Slopes"
 excerpt: "A low-cost IoT-based landslide monitoring and early-warning system combining multi-sensor fusion, Wi-Fi/LoRa telemetry, and a weighted risk engine for real-time slope safety alerts."
-image: prevail/Demonstration.jpeg
+image: prevail/Physicalsetup.jpeg
 tags:
   - IoT
   - ESP32
@@ -90,11 +90,6 @@ Landslides are sudden, high-consequence geological hazards that demand continuou
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="/assets/images/prevail/Dashboardlastupdate.png" width="800"><br/>
-  <i>Figure 7 — Last Sensor Update timestamp widget, confirming live telemetry reception from the field node.</i>
-</p>
 
 ### Videos
 
