@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: VoiceGest — A Gesture-to-Speech AAC Device for Non-Verbal Individuals
 excerpt: A compact, portable communication device that turns simple deliberate movements — a hand tilt, a swipe, a breath, a colour card — into spoken phrases in real time, with no internet, no app subscription, and no surgical implant required.
-image: https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/COVERPAGE_VOICEGEST.jpg
+image: voicegest/COVERPAGE_VOICEGEST.jpg"
 tags:
   - assistive-technology
   - aac
@@ -54,36 +54,55 @@ VoiceGest reads gesture, motion, and breath through the MYOSA MPU6050, APDS9960,
 
 ### Images
 
-![VoiceGest — fully assembled device with all three sensor boards connected](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/COVERPAGE_VOICEGEST.jpg)
-*VoiceGest — fully assembled device with all three sensor boards connected*
+<p align="center">
+  <img src="/assets/images/voicegest/COVERPAGE_VOICEGEST.jpg" width="800"><br/>
+  <i>VoiceGest — fully assembled device with all three sensor boards connected</i>
+</p>
 
-![MYOSA Mini Kit components and sensor boards used in the build](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/kit_components.jpg)
-*MYOSA Mini Kit components and sensor boards used in the build*
+<p align="center">
+  <img src="/assets/images/voicegest/kit_components.jpg" width="800"><br/>
+  <i>MYOSA Mini Kit components and sensor boards used in the build</i>
+</p>
 
-![OLED display showing 'Status: Ready' at power-on](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/OLED_Ready_event1.jpg)
-*OLED display showing 'Status: Ready' at power-on*
+<p align="center">
+  <img src="/assets/images/voicegest/OLED_Ready_event1.jpg" width="800"><br/>
+  <i>OLED display showing 'Status: Ready' at power-on</i>
+</p>
 
-![OLED display confirming the classified phrase "I am in pain" before it is spoken](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/OLED_output_pain.jpg)
-*OLED display confirming the classified phrase "I am in pain" before it is spoken*
+<p align="center">
+  <img src="/assets/images/voicegest/OLED_output_pain.jpg" width="800"><br/>
+  <i>OLED display confirming the classified phrase "I am in pain" before it is spoken</i>
+</p>
 
-![OLED display confirming the classified phrase "I need water" before it is spoken](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/OLED_output_water.jpg)
-*OLED display confirming the classified phrase "I need water" before it is spoken*
+<p align="center">
+  <img src="/assets/images/voicegest/OLED_output_water.jpg" width="800"><br/>
+  <i>OLED display confirming the classified phrase "I need water" before it is spoken</i>
+</p>
 
-![OLED display confirming the classified phrase "NO" during YES/NO dialogue](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/OLED_output_no.jpg)
-*OLED display confirming the classified phrase "NO" during YES/NO dialogue*
+<p align="center">
+  <img src="/assets/images/voicegest/OLED_output_no.jpg" width="800"><br/>
+  <i>OLED display confirming the classified phrase "NO" during YES/NO dialogue</i>
+</p>
 
-![Serial monitor confirming successful initialization of all sensors](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/serial-monitor-ready.jpg)
-*Serial monitor confirming successful initialization of all sensors*
+<p align="center">
+  <img src="/assets/images/voicegest/serial-monitor-ready.jpg" width="800"><br/>
+  <i>Serial monitor confirming successful initialization of all sensors</i>
+</p>
 
-![Caregiver dashboard showing the live, timestamped communication event log, viewed on a phone](https://raw.githubusercontent.com/gayathrium4567/VOICEGEST/main/Dashboard-phone.jpg)
-*Caregiver dashboard showing the live, timestamped communication event log, viewed on a phone*
+<p align="center">
+  <img src="/assets/images/voicegest/Dashboard-phone.jpg" width="800"><br/>
+  <i>Caregiver dashboard showing the live, timestamped communication event log, viewed on a phone</i>
+</p>
 
 ### Videos
 
-Plain markdown can't embed a playable video player, so these link straight to the file — tap to open/download and play:
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/XWiOuT6kVu4"></iframe>
+</div>
 
-- [▶ Watch: VoiceGest live demonstration](https://github.com/gayathrium4567/VOICEGEST/blob/main/voicegest_demo_video.mp4) — baseline, basic need, YES/NO dialogue, emergency alert, colour card, and breath input
-- [▶ Watch: Caregiver dashboard walkthrough](https://github.com/gayathrium4567/VOICEGEST/blob/main/Dashboard_video.mp4)
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/paRdDETyx8s"></iframe>
+</div>
 
 ---
 
