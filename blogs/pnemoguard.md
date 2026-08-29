@@ -2,7 +2,7 @@
 publishDate: 2026-08-24
 title: PneumoGuard - COPD Exacerbation Early Warning System
 excerpt: A sub-₹500 wearable that senses the barometric, humidity, and motion triggers behind COPD exacerbations and warns patients hours before an acute episode.
-image: pnemoguard/pneumoguard-cover.jpeg
+image: pnemoguard/cover.jpeg
 tags:
 - HealthTech
 - IoT
@@ -30,7 +30,7 @@ We thank our faculty mentor, **Dr. Nishanth N**, Department of Electronics and C
 
 ---
 <p align="center">
-<img src="assets/images/pneumoguard/cover.jpeg" width="800"><br/>
+<img src="assets/images/pnemoguard/cover.jpeg" width="800"><br/>
 <i>PneumoGuard</i>
 </p>
 
@@ -101,7 +101,7 @@ The **OLED display** renders the live pressure trend as a simple line graph alon
 Every reading (raw sensor values, computed features, and risk tier) is simultaneously transmitted over Wi-Fi/BLE to a lightweight cloud dashboard for caregiver or telemedicine review. For validation, we correlate six months of IMD (India Meteorological Department) Kerala weather data — specifically barometric pressure and humidity time series — against regional COPD hospital-admission records, using time-series overlay plots to visually and statistically confirm that admission spikes cluster around the pressure-drop events PneumoGuard is designed to detect. This kind of retrospective correlation plotting is a standard method for validating an environmental-trigger hypothesis before committing to a fixed on-device alert threshold, and it also lets us sanity-check the sensor's real-world reliability against an independent, clinically meaningful outcome (hospital admissions) rather than relying on sensor accuracy specs alone.
 
 <p align="center">
-<img src="assets/images/pneumoguard/warning.jpeg" width="800"><br/>
+<img src="assets/images/pnemoguard/warning.jpeg" width="800"><br/>
 <i>Web Dashboard</i>
 </p>
 
@@ -128,7 +128,7 @@ P_filtered[i] = α · P_raw[i] + (1 − α) · P_filtered[i−1],   α = 0.15
 **Workaround — double-stage smoothing:** the derivative itself is passed through a second EMA (α = 0.08) before being compared against the trigger threshold, giving the stable dark-red drop-rate curve in Fig. 1.
 
 <p align="center">
-<img src="assets/images/pneumoguard/fig1-pressure-filtering.png" width="800"><br/>
+<img src="assets/images/pnemoguard/fig1-pressure-filtering.png" width="800"><br/>
 <i>Fig. 1 — Raw vs. EMA-filtered BMP180 signal and the resulting double-smoothed pressure drop-rate (simulated data, illustrating the filtering algorithm)</i>
 </p>
 
@@ -146,7 +146,7 @@ BEI_norm[i] = BEI[i] / max(BEI)
 Laboured breathing manifests as elevated-amplitude, semi-periodic motion, which raises windowed variance measurably above the quiet-breathing baseline — this is a standard technique for turning a noisy motion signal into a stable physiological index without needing spectral analysis (FFT), which would be too computationally expensive to run continuously on the ESP32.
 
 <p align="center">
-<img src="assets/images/pneumoguard/fig2-breathing-effort-index.png" width="800"><br/>
+<img src="assets/images/pnemoguard/fig2-breathing-effort-index.png" width="800"><br/>
 <i>Fig. 2 — Breathing-effort index (BEI) derived from MPU6050 windowed variance, showing detection of a simulated laboured-breathing episode</i>
 </p>
 
@@ -174,7 +174,7 @@ Risk tier =  LOW      if R(t) ≤ 0.35
 The weights reflect that pressure-drop rate is the dominant clinical predictor (≈80% of exacerbations per the literature reviewed), with breathing effort and context acting as corroborating/adjusting signals rather than equal partners — this avoids a false HIGH alert being triggered by motion noise alone.
 
 <p align="center">
-<img src="assets/images/pneumoguard/fig3-risk-fusion.png" width="800"><br/>
+<img src="assets/images/pnemoguard/fig3-risk-fusion.png" width="800"><br/>
 <i>Fig. 3 — Composite risk-fusion score R(t) over time with LOW/MEDIUM/HIGH alert bands (simulated data, illustrating the weighted-fusion algorithm)</i>
 </p>
 
@@ -183,7 +183,7 @@ The weights reflect that pressure-drop rate is the dominant clinical predictor (
 Before fixing the threshold constants above, the underlying hypothesis — that pressure-drop events precede COPD hospital admissions — is checked against real-world outcome data, using a simple linear-correlation plot of monthly pressure-drop-event counts (IMD Kerala) against regional COPD admissions:
 
 <p align="center">
-<img src="assets/images/pneumoguard/fig4-correlation-validation.png" width="700"><br/>
+<img src="assets/images/pnemoguard/fig4-correlation-validation.png" width="700"><br/>
 <i>Fig. 4 — Illustrative validation method: correlating pressure-drop-event frequency with COPD hospital admissions over a 6-month window (synthetic data shown here to demonstrate the method; final proposal will substitute real IMD/hospital records)</i>
 </p>
 
