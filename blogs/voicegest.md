@@ -2,7 +2,7 @@
 publishDate: 2026-08-25
 title: VoiceGest — A Gesture-to-Speech AAC Device for Non-Verbal Individuals
 excerpt: A compact, portable communication device that turns simple deliberate movements — a hand tilt, a swipe, a breath, a colour card — into spoken phrases in real time, with no internet, no app subscription, and no surgical implant required.
-image: voicegest/COVERPAGE_VOICEGEST.jpg"
+image: voicegest/COVERPAGE_VOICEGEST.jpg
 tags:
   - assistive-technology
   - aac
