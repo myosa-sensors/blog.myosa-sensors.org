@@ -1,4 +1,4 @@
-﻿---
+---
 publishDate: 2026-08-25
 
 title: DeepWorks: Resilient Sub-surface Mining Telemetry & Miner Safety Mesh Network
@@ -25,7 +25,6 @@ tags:
 > Resilient GPS-denied subsurface telemetry, multi-sensor atmospheric & miner hazard monitoring, multi-node mesh relay emulation, and instant bidirectional evacuation dispatch powered by the MYOSA ESP32 ecosystem.
 
 ---
-
 ## Acknowledgements
 
 We express our deepest gratitude to the **MYOSA Platform Team**, the **ESP32 & Arduino Open-Source Community**, and underground mining safety engineers whose rigorous communication guidelines in hazardous environments inspired the fail-safe architecture of DeepWorks. We also thank the creators of FreeRTOS, SQLite, and the React ecosystem for enabling high-reliability embedded and web software development.
