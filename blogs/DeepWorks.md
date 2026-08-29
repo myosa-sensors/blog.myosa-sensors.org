@@ -1,23 +1,27 @@
 ﻿---
-**PublishDate:** 2026-08-25 <br>
-**Title:** "DeepWorks: Resilient Sub-surface Mining Telemetry & Miner Safety Mesh Network"<br>
-**Excerpt:** "An industrial-grade, GPS-denied subsurface IoT mesh network and live tactical telemetry monitoring system built on MYOSA ESP32 wearable nodes, a secondary ESP32 mesh emulation relay node, an ESP32-S3 central coordinator gateway, and an interactive real-time command dashboard."<br>
-**Image:** myosa_subsurface_monitor/deepworks-cover-banner.jpg
-<br>
-**Tags:**
-- ESP32
-- MYOSA
-- ESP-NOW
-- BLE
-- IoT
-- MiningSafety
-- Hardware
-- WebSockets
-- React
-- SubsurfaceTelemetry
-- MeshNetwork
+publishDate: 2026-08-25
+
+title: DeepWorks: Resilient Sub-surface Mining Telemetry & Miner Safety Mesh Network
+
+excerpt: An industrial-grade, GPS-denied subsurface IoT mesh network and live tactical telemetry monitoring system built on MYOSA ESP32 wearable nodes, a secondary ESP32 mesh emulation relay node, an ESP32-S3 central coordinator gateway, and an interactive real-time command dashboard.
+
+image: myosa_subsurface_monitor/deepworks-cover-banner.jpg
+
+tags:
+  - ESP32
+  - MYOSA
+  - ESP-NOW
+  - BLE
+  - IoT
+  - MiningSafety
+  - Hardware
+  - WebSockets
+  - React
+  - SubsurfaceTelemetry
+  - MeshNetwork
 ---
 
+> An industrial-grade, GPS-denied subsurface IoT mesh network and live tactical telemetry monitoring system built on MYOSA ESP32 wearable nodes, a secondary ESP32 mesh emulation relay node, an ESP32-S3 central coordinator gateway, and an interactive real-time command dashboard.
 > Resilient GPS-denied subsurface telemetry, multi-sensor atmospheric & miner hazard monitoring, multi-node mesh relay emulation, and instant bidirectional evacuation dispatch powered by the MYOSA ESP32 ecosystem.
 
 ---
