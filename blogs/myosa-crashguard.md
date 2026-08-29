@@ -71,12 +71,9 @@ The MYOSA board becomes the brain of an in-vehicle guardian. It watches the acce
 
 ### Videos
 
-<video controls width="100%">
-  <source src="/crashguard-demo.mp4" type="video/mp4">
-</video>
-
-*The demonstration video is included in this folder as a local MP4 file:
-[crashguard-demo.mp4](crashguard-demo.mp4). No external or YouTube links are used.*
+<div class="youtube-embed">
+  <iframe src="https://www.youtube.com/embed/Z7IfN4LqfJs"></iframe>
+</div>
 
 ---
 
