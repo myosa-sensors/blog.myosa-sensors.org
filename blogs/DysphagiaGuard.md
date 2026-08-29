@@ -5,7 +5,7 @@ title: DysphagiaGuard || IEEE EMBS E-JUST SBC
 
 excerpt: A MYOSA-based TinyML wearable that continuously monitors swallowing kinematics and classifies each swallow as Normal, Delayed/Incomplete, or Aspiration Risk in real time — alerting the wearer locally and notifying caregivers via a companion Flutter app.
 
-image: DysphagiaGuard/cover.jpg
+image: DysphagiaGuard/prototype-1.jpeg
 
 tags:
   - MYOSA
