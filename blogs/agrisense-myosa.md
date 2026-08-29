@@ -1,12 +1,8 @@
 ---
 publishDate: 2026-08-25
-
-title: AgriSense: Offline Edge-AI Maize Health Monitor
-
+title: AgriSense- Offline Edge-AI Maize Health Monitor
 excerpt: AgriSense is a low-cost ESP32 and MYOSA-based system that monitors maize conditions offline, identifies early stress indicators, and provides farmer-friendly alerts through an OLED display, buzzer, and local web dashboard.
-
 image: agrisense/agrisense-cover.jpg
-
 tags:
   - agriculture
   - esp32
