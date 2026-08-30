@@ -179,7 +179,8 @@ Then open: `http://192.168.4.1`
 ## Live Demo — What We Show
 
 <div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/chr9IqD---E"></iframe>
+  <iframe src="https://www.youtube.com/embed/chr9IqD---E">
+  </iframe>
 </div>
 
 **Baseline phase**
