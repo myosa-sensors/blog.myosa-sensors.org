@@ -66,7 +66,6 @@ The following images show the circuit design and progressive assembly of the Tra
 </p>
 
 <p align="center">
-  <img src="/assets/images/full-pack.jpg" width="800"><br/>
   <img src="/assets/images/transitguard/full-pack.jpg" width="800"><br/>
   <i>TransitGuard fully assembled and sealed within the protective transport enclosure</i>
 </p>
