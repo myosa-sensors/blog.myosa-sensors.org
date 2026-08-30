@@ -73,7 +73,7 @@ analog joystick, so users with tremors never need fine-motor button precision.
 </p>
 
 <p align="center">
-<img src="/assets/images/steadypointsteadypoint-screens.jpg" width="800"><br/>
+<img src="/assets/images/steadypoint/steadypoint-screens.jpg" width="800"><br/>
 <i>OLED flow: Splash → Menu → Mouse mode/Calibration/Data Collection</i>
 </p>
 
