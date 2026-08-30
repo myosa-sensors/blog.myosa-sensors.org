@@ -60,7 +60,7 @@ LPS = (0.55 × proximity_dev) + (0.45 × vibration_dev)[cite: 4, 5]
 </p>
 
 <p align="center">
-  <img src="/assets/images/hydronova/3.pmg" width="800"><br/>
+  <img src="/assets/images/hydronova/3.png" width="800"><br/>
   <i>Prototype demonstration rig — sensor stack above a buried leaking pipe</i>[cite: 4, 5]
 </p>
 
